@@ -68,7 +68,8 @@
     - OpenStax, *World History Volume 1, to 1500*, [3.2 Ancient Mesopotamia](https://openstax.org/books/world-history-volume-1/pages/3-2-ancient-mesopotamia) (CC BY-NC-SA 4.0)
     - V. Gordon Childe, "The Urban Revolution", *Town Planning Review* 21(1), 1950 ([PDF](https://faculty.washington.edu/plape/citiesaut11/readings/Childe-urban%20revolution%201950.pdf))
     - University of Toronto Libraries, [The Development of Cuneiform: Conclusion](https://spatial-humanities.library.utoronto.ca/exhibits/show/development-of-cuneiform/conclusion)
+    - EBSCO Research Starters, [Sargon of Akkad Establishes the Akkadian Dynasty](https://ebsco.com/research-starters/history/sargon-akkad-establishes-akkadian-dynasty)
 
 - **기준 날짜:** 2026-11-11
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 우루크 인구(약 5만 명), 사르곤 정복 연도(기원전 2300년 무렵), 우르 지구라트 높이(약 30미터), 도시 거주 비율(70~80%)은 OpenStax에서만 확인했어요. 두 번째 자료(브리태니커, 세계사 백과, 메트로폴리탄 미술관)는 접속이 막혀 대조하지 못했어요. '수메르/슈메르', '이난나/인안나' 표기 확인 필요.
+- **확인 필요:** 사르곤은 EBSCO(재위 기원전 2334~2279년 무렵)로 대조했어요. 우루크 인구(약 5만 명), 우르 지구라트 높이(약 30미터)와 완성 시기, 도시 거주 비율(70~80%)은 OpenStax에서만 확인했어요. 두 번째 자료(브리태니커, 세계사 백과, 메트로폴리탄 미술관)는 접속이 막혀 대조하지 못했어요. '수메르/슈메르', '이난나/인안나' 표기 확인 필요.

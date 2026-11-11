@@ -10,7 +10,10 @@
 - 대표 색: 테라코타(중심) + 남색(보조).
 - GitHub: 조직 저장소 `history-jungjuhang/world-history`, 작업 브랜치 `main`(2026-11-11 옮김). 사이트 주소 예정 `https://history-jungjuhang.github.io/world-history/`. 예전 저장소 `sehoon3554-ctrl/history_jungjuhang`은 더 쓰지 않는다.
 - 인스타: `@history_jungjuhang`.
-- 기준 교재: 1단계에서 후보 비교 후 결정(미정).
+- 기준 교재(2026-11-11 결정): 뼈대 OpenStax World History Vol.1·2(CC BY-NC-SA 4.0, 문장 번안 금지). 대조 2022 개정 세계사 교육과정, 하버드-C.H.베크 세계사(민음사). 고유명사는 검정 교과서·교육부 편수 자료 표기.
+- 목차: `book.yml`(7부 22장 118페이지 + 부록 4). `python3 tools/build_book.py`로 nav와 부/장 안내 페이지를 만든다.
+- 사용자 지시(2026-11-11 밤): 추천대로 교과서 전체를 써서 배포하고 링크를 보낸다. 페이지 작성 규칙은 `.claude/skills/topic-page`.
+- 마스코트 SVG는 `tools/make_globe.py`가 만든다(`docs/assets/globe*.svg`).
 
 ## 세계사라서 특히 지킬 것
 - 사실과 해석을 나눈다. 연도·인물·사건은 기준 자료 두 곳 이상에서 확인하고, 학자마다 다른 연대·해석은 "~라는 견해가 있다"로 쓰며 다른 견해도 싣는다.

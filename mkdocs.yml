@@ -1,0 +1,105 @@
+site_name: 세계사 정주행
+site_description: 열 살도 이해하는 세계사. 선사 시대부터 냉전이 끝난 1991년까지, 아시아·아프리카·아메리카·유럽을 고르게 다루는 한국어 웹 교과서
+site_url: https://history-jungjuhang.github.io/world-history/
+copyright: 세계사 정주행 · 뼈대 목차는 OpenStax World History(CC BY-NC-SA 4.0)를 참고해 새로 썼어요
+theme:
+  name: material
+  logo: assets/globe-logo.svg
+  favicon: assets/globe-logo.svg
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+  font: false
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-night, name: 다크 모드}
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-sunny, name: 라이트 모드}
+extra_css:
+  - https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css
+  - https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/globe.js
+  - javascripts/reveal.js
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed: {alternate_style: true}
+  - attr_list
+  - pymdownx.mark: {smart_mark: false}
+  - md_in_html
+  - tables
+  - toc: {permalink: true}
+nav:
+  - 홈: index.md
+  - "I 인류, 문명을 만들다":
+    - part1/index.md
+    - "1장 역사는 어떻게 알 수 있을까":
+      - part1/ch01/index.md
+    - "2장 처음 사람들":
+      - part1/ch02/index.md
+    - "3장 강가에서 문명이 시작되다":
+      - part1/ch03/index.md
+  - "II 고대 제국과 사상":
+    - part2/index.md
+    - "4장 생각이 태어난 시대":
+      - part2/ch04/index.md
+    - "5장 동아시아와 인도의 제국":
+      - part2/ch05/index.md
+    - "6장 페르시아, 그리스, 로마":
+      - part2/ch06/index.md
+    - "7장 아프리카와 아메리카의 고대 문명":
+      - part2/ch07/index.md
+  - "III 종교와 교류의 시대":
+    - part3/index.md
+    - "8장 이슬람 세계":
+      - part3/ch08/index.md
+    - "9장 동아시아와 인도양":
+      - part3/ch09/index.md
+    - "10장 유럽의 중세":
+      - part3/ch10/index.md
+    - "11장 몽골 제국과 이어진 세계":
+      - part3/ch11/index.md
+    - "12장 아프리카와 아메리카의 왕국들":
+      - part3/ch12/index.md
+  - "IV 바다로 이어진 세계":
+    - part4/index.md
+    - "13장 아시아의 큰 제국들":
+      - part4/ch13/index.md
+    - "14장 유럽이 바뀌다":
+      - part4/ch14/index.md
+    - "15장 대서양으로 이어진 세계":
+      - part4/ch15/index.md
+  - "V 혁명과 제국주의":
+    - part5/index.md
+    - "16장 시민 혁명과 국민 국가":
+      - part5/ch16/index.md
+    - "17장 산업 혁명":
+      - part5/ch17/index.md
+    - "18장 제국주의와 아시아·아프리카의 대응":
+      - part5/ch18/index.md
+  - "VI 세계 대전과 냉전":
+    - part6/index.md
+    - "19장 제1차 세계 대전과 그 뒤":
+      - part6/ch19/index.md
+    - "20장 제2차 세계 대전":
+      - part6/ch20/index.md
+    - "21장 냉전과 새로 독립한 나라들":
+      - part6/ch21/index.md
+  - "VII 다시 보는 세계사★":
+    - part7/index.md
+    - "22장 큰 흐름으로 보기★":
+      - part7/ch22/index.md
+  - "부록":
+    - appendix/index.md

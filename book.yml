@@ -237,12 +237,12 @@ parts:
       pages:
       - {slug: conquest, title: "아메리카 정복과 원주민의 큰 희생", min: 5, done: true}
       - {slug: columbian-exchange, title: "감자와 옥수수가 세계로 퍼졌다", min: 5, done: true}
-      - {slug: silver, title: "아메리카의 은이 세계를 돌았다", min: 5, done: false}
+      - {slug: silver, title: "아메리카의 은이 세계를 돌았다", min: 5, done: true}
     - num: '15.2'
       title: 노예 무역
       pages:
-      - {slug: atlantic-slave-trade, title: "대서양 노예 무역, 끌려간 사람들", min: 5, done: false}
-      - {slug: plantation, title: "설탕 농장이 노예 노동에 기대어 돌아갔다", min: 5, done: false}
+      - {slug: atlantic-slave-trade, title: "대서양 노예 무역, 끌려간 사람들", min: 5, done: true}
+      - {slug: plantation, title: "설탕 농장이 노예 노동에 기대어 돌아갔다", min: 5, done: true}
 - id: 5
   title: V 혁명과 제국주의
   blurb: 1750년부터 1914년까지. 시민 혁명과 산업 혁명이 세상을 바꾸고, 힘이 세진 나라들이 세계를 나눠 가지려 해요.

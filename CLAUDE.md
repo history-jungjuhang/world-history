@@ -13,6 +13,7 @@
 - 기준 교재(2026-11-11 결정): 뼈대 OpenStax World History Vol.1·2(CC BY-NC-SA 4.0, 문장 번안 금지). 대조 2022 개정 세계사 교육과정, 하버드-C.H.베크 세계사(민음사). 고유명사는 검정 교과서·교육부 편수 자료 표기.
 - 목차: `book.yml`(7부 22장 118페이지 + 부록 4). `python3 tools/build_book.py`로 nav와 부/장 안내 페이지를 만든다.
 - 사용자 지시(2026-11-11 밤): 추천대로 교과서 전체를 써서 배포하고 링크를 보낸다. 페이지 작성 규칙은 `.claude/skills/topic-page`.
+- 진행(2026-11-12 새벽): 122페이지 초안 완료·배포. 남은 검토 항목은 `REVIEW.md`. OpenStax의 생성형 AI 이용 제한 문구는 사용자 판단 대기.
 - 마스코트 SVG는 `tools/make_globe.py`가 만든다(`docs/assets/globe*.svg`).
 
 ## 세계사라서 특히 지킬 것

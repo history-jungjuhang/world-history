@@ -8,7 +8,7 @@
 - 분량: 6~7부, 약 20장, 주제 페이지 100~120개.
 - 캐릭터: 세계사용 새 원작 캐릭터 **지구본 얼굴**. 감자나 기존 캐릭터를 닮게 그리지 않는다.
 - 대표 색: 테라코타(중심) + 남색(보조).
-- GitHub: 개인 이름이 없는 조직 `history-jungjuhang`을 사용자가 새로 만들어 저장소를 옮긴다(준비 중). 그전까지는 `sehoon3554-ctrl/history_jungjuhang`의 `claude/new-session-8r5tka` 브랜치에서 작업한다.
+- GitHub: 조직 저장소 `history-jungjuhang/world-history`, 작업 브랜치 `main`(2026-11-11 옮김). 사이트 주소 예정 `https://history-jungjuhang.github.io/world-history/`. 예전 저장소 `sehoon3554-ctrl/history_jungjuhang`은 더 쓰지 않는다.
 - 인스타: `@history_jungjuhang`.
 - 기준 교재: 1단계에서 후보 비교 후 결정(미정).
 

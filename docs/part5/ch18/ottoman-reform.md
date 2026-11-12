@@ -28,14 +28,14 @@
 | 분야 | 개혁 내용 |
 |---|---|
 | 법과 평등 | 신민의 생명·재산·명예를 보장하겠다고 약속해요. 1856년 칙령으로 이슬람교도가 아닌 사람에게도 법 앞의 평등을 약속해요. |
-| 세금 | 세금 걷는 일을 개인에게 맡기던 방식을 없애고 국가가 월급 주는 관리가 걷게 해요. |
+| 세금 | 세금 걷는 일을 개인에게 맡기던 방식(세금 청부)을 없애고 국가가 월급 주는 관리가 걷게 하려 했어요. 하지만 잘 되지 않아 몇 년 만에 세금 청부가 다시 쓰였고, 그 뒤로도 오래 남았어요. |
 | 군대 | 징병 제도와 복무 기간을 정해요. |
-| 교육 | 교육 위원회(1841)와 교육부(1847)를 만들고 근대식 학교를 세워요. |
+| 교육 | 1840년대부터 교육을 맡는 기구를 두고 근대식 학교를 세워요. 1857년에는 교육부를 만들어요. |
 | 법전 | 상법, 형법, 민법을 새로 만들고, 종교 법정과 따로 근대식 법정을 둬요. |
 
 ## 헌법, 멈춤, 그리고 다시
 
-개혁은 한 걸음 더 나아갔어요. 헌법과 의회를 요구한 **청년 오스만**(Young Ottomans) 지식인들의 영향을 받아, 1876년 재상 미드하트 파샤(Midhat Pasha)가 주도해 **오스만 제국 헌법**이 발표됐어요. 이슬람 세계에서 처음 나온 헌법 가운데 하나였어요. 하지만 술탄 압뒬하미트 2세(Abdülhamid II)는 러시아와의 전쟁을 이유로 곧 의회를 멈추고 헌법을 정지했어요.
+개혁은 한 걸음 더 나아갔어요. 헌법과 의회를 요구한 **청년 오스만**(Young Ottomans) 지식인들의 영향을 받아, 1876년 재상 미드하트 파샤(Midhat Pasha)가 주도해 **오스만 제국 헌법**이 발표됐어요. 이슬람 세계에서 처음 나온 헌법 가운데 하나였어요. 하지만 술탄 압뒬하미트 2세(Abdülhamid II)는 러시아와의 전쟁 중이던 1878년 의회를 멈췄어요. 헌법을 없앤다고 하지는 않았지만, 헌법이 실제로 작동하지 않는 상태가 1908년까지 30년 동안 이어졌어요.
 
 개혁의 어려움도 컸어요. 철도와 군대에 쓸 돈을 유럽에서 빌리다 빚이 쌓여 1875년 무렵 나라 재정이 파산했고, 1881년부터는 유럽 채권국들이 세운 기구가 오스만 세금 일부를 직접 관리했어요. "모든 종교의 평등" 약속은 일부 이슬람교도의 반발을 샀고, 그렇다고 발칸 민족들의 독립 요구를 멈추지도 못했어요.
 
@@ -66,8 +66,10 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [7.4 Nationalism, Liberalism, Conservatism, and the Political Order](https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order) (그리스 독립), [9.1 The Second Industrial Revolution](https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution) (무함마드 알리의 이집트) (CC BY-NC-SA 4.0)
     - Wikipedia, [Tanzimat](https://en.wikipedia.org/wiki/Tanzimat) (1839년 11월 3일 귈하네 칙령, 1826년 예니체리 폐지, 1856년 개혁 칙령, 분야별 개혁, 1876년 헌법, 1875년 파산과 1881년 오스만 공채 관리국, 평가)
+    - T.C. Millî Eğitim Bakanlığı(튀르키예 교육부), [Millî Eğitim Bakanlığının Kısa Tarihçesi](https://meb.gov.tr/milli-egitim-bakanliginin-kisa-tarihcesi/duyuru/8852) (교육부 1857년 3월 설치)
+    - TDV İslâm Ansiklopedisi, [Maârif-i Umûmiyye Nezâreti](https://islamansiklopedisi.org.tr/maarif-i-umumiyye-nezareti) (1845년 이후 교육 기구, 1857년 교육부)
     - Wikipedia, [Young Turk Revolution](https://en.wikipedia.org/wiki/Young_Turk_Revolution) (1908년 7월, 1909년 압뒬하미트 2세 폐위)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** OpenStax에는 탄지마트를 다룬 절이 없어 탄지마트 내용은 Wikipedia 한 곳에 기댔어요. 기준 교과서나 다른 자료로 한 번 더 대조해야 해요. 헌법 정지 연도(1878년)는 자료 안에서도 서술이 엇갈려 본문에 연도를 쓰지 않았어요. 인명 표기(압뒬메지트/압둘메지드, 압뒬하미트/압둘하미드)는 교과서마다 달라요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** OpenStax에는 탄지마트를 다룬 절이 없어 탄지마트 내용은 Wikipedia 한 곳에 기댔어요. 기준 교과서나 다른 자료로 한 번 더 대조해야 해요. 의회 정지(1878년)와 세금 청부 폐지·부활은 이번에 대조 자료 원문을 열지 못하고 일반적으로 알려진 내용으로 썼어요. 인명 표기(압뒬메지트/압둘메지드, 압뒬하미트/압둘하미드)는 교과서마다 달라요.

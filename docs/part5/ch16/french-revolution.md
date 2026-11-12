@@ -17,7 +17,7 @@
 
 왕 루이 16세는 새 세금을 걷으려고 1789년에 **삼부회**를 불렀어요. 신분 대표가 모이는 회의인데 1614년 이후 한 번도 열리지 않던 회의였어요. 제3신분 대표들은 신분별 투표에 반발해 스스로 **국민 의회**를 만들고, 헌법을 만들 때까지 흩어지지 않겠다고 맹세했어요.
 
-왕이 군대를 모으자 파리 시민들은 7월 14일 왕의 억압을 상징하던 **바스티유 감옥**을 습격했어요. 그해 8월, 국민 의회는 **「인간과 시민의 권리 선언」**(인권 선언)을 발표했어요. 제1조는 이렇게 시작해요.
+왕이 군대를 모으자 파리 시민들은 7월 14일 왕의 억압을 상징하던 **바스티유 감옥**을 습격했어요. 그해 8월 26일, 국민 의회는 **「인간과 시민의 권리 선언」**(인권 선언)을 발표했어요. 제1조는 이렇게 시작해요.
 
 > "인간은 자유롭고 권리에서 평등하게 태어나 그렇게 살아간다."
 > (1789년 「인간과 시민의 권리 선언」 제1조, 프랑스 헌법 위원회 누리집의 원문을 우리말로 옮김)
@@ -41,7 +41,7 @@
 
 ## 선언에서 빠진 사람들
 
-인권 선언의 "인간"은 실제로 남성 시민을 뜻했어요. 극작가 구주(Olympe de Gouges)는 1791년 「여성과 여성 시민의 권리 선언」을 써서 여성도 같은 권리를 가져야 한다고 주장했어요. 프랑스 여성이 투표권을 얻은 건 그로부터 150년도 더 지난 1944년이에요.
+인권 선언은 모든 인간의 권리를 말했지만, 실제 정치에서는 많은 사람이 빠졌어요. 여성은 투표할 수 없었고, 남성도 일정한 세금을 내야 투표할 수 있었어요. 극작가 구주(Olympe de Gouges)는 1791년 「여성과 여성 시민의 권리 선언」을 써서 여성도 같은 권리를 가져야 한다고 주장했어요. 프랑스 여성이 투표권을 얻은 건 그로부터 150년도 더 지난 1944년이에요.
 
 식민지의 노예들도 이 선언을 읽고 물었어요. "모든 인간이 자유롭다면 우리는?" 그 물음이 다음 페이지 [아이티 혁명](haiti.md)이 돼요.
 
@@ -71,8 +71,9 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [7.3 Revolutions: America, France, and Haiti](https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti) (CC BY-NC-SA 4.0)
     - Conseil constitutionnel(프랑스 헌법 위원회), [Déclaration des Droits de l'Homme et du Citoyen de 1789](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789) (제1조·제2조 원문)
+    - Légifrance, [Déclaration des Droits de l'Homme et du Citoyen de 1789](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000697056/1789-08-26/) (1789년 8월 26일 채택)
     - U.S. Department of State, Office of the Historian, [The United States and the French Revolution, 1789–1799](https://history.state.gov/milestones/1784-1800/french-rev) (루이 16세 처형 1793년 1월 21일, 공포 정치 1794년 7월 끝)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 인권 선언 채택일(1789년 8월 26일)은 두 자료에서 날짜까지는 확인하지 못해 "그해 8월"로만 썼어요. 신분별 세 부담 설명은 단순화한 것이에요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 1791년 헌법의 납세 요건(능동 시민·수동 시민 구분)은 이번에 원문을 따로 열어 보지 못했어요. 신분별 세 부담 설명은 단순화한 것이에요.

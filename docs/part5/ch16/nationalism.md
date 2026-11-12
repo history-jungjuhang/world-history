@@ -37,9 +37,9 @@
 
 독일 땅도 서른 개가 넘는 나라로 나뉘어 있었어요. 1834년 프로이센 중심으로 **관세 동맹**(촐페라인)이 만들어져 경제가 먼저 묶였어요. 1848년 프랑크푸르트에 모인 의회가 국민의 힘으로 통일 헌법을 만들려 했지만 실패했어요.
 
-1862년 프로이센 총리가 된 **비스마르크**(Otto von Bismarck)는 다른 길을 택했어요. 그는 연설에서 지금의 큰 문제는 연설이나 다수결이 아니라 "철과 피", 곧 무기와 전쟁으로 결정된다고 말했어요. 프로이센은 덴마크(1864), 오스트리아(1866), 프랑스(1870~1871)와 차례로 싸워 이겼어요. 그리고 1871년 1월 18일, 프랑스 베르사유 궁전 거울의 방에서 프로이센 왕 빌헬름 1세가 **독일 제국**의 황제로 선포됐어요.
+1862년 프로이센 총리가 된 **비스마르크**(Otto von Bismarck)는 다른 길을 택했어요. 그는 1862년 9월 30일 프로이센 의회 예산 위원회에서 지금의 큰 문제는 연설이나 다수결이 아니라 "철과 피", 곧 무기와 전쟁으로 결정된다고 말했어요. 1864년 프로이센은 오스트리아와 함께 덴마크와 싸워 이겼어요. 그 뒤 오스트리아(1866), 프랑스(1870~1871)와 차례로 싸워 이겼어요. 그리고 1871년 1월 18일, 프랑스 베르사유 궁전 거울의 방에서 프로이센 왕 빌헬름 1세가 **독일 제국**의 황제로 선포됐어요.
 
-이탈리아와 독일 모두 마지막 통일은 국민 투표나 의회보다 왕국의 군대와 외교가 이뤘어요. 민족주의는 그 뒤 강한 나라를 만들자는 목소리와 쉽게 손을 잡았고, 이는 뒤의 [제국주의](../ch18/imperialism.md)로 이어져요.
+두 나라의 통일에는 왕국의 군대와 외교가 큰 몫을 했어요. 다만 이탈리아에서는 여러 지역을 왕국에 합칠 때 주민 투표도 치렀어요. 1860년 여러 지역과 1870년 로마가 투표를 거쳐 왕국에 들어왔어요. 민족주의는 그 뒤 강한 나라를 만들자는 목소리와 쉽게 손을 잡았고, 이는 뒤의 [제국주의](../ch18/imperialism.md)로 이어져요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     "같은 말을 쓰는 우리끼리 한 나라를"이라는 생각이 조각난 이탈리아와 독일을 하나로 묶었어요.
@@ -65,9 +65,12 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [7.4 Nationalism, Liberalism, Conservatism, and the Political Order](https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order) (CC BY-NC-SA 4.0)
+    - Fondation Napoléon, [Napoleon III and the War of the Duchies, 1864](https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-iii-and-the-war-of-the-duchies-1864/) (프로이센·오스트리아가 함께 덴마크와 싸움)
+    - German History in Documents and Images, [Bismarck's "Blood and Iron" Speech (1862)](https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/ghdi%3Adocument-250) (1862년 9월 30일 예산 위원회)
+    - U.S. Department of State, Office of the Historian, [Papal States](https://history.state.gov/countries/papal-states) (1860년 북부 여러 나라와 1870년 로마의 주민 투표)
     - Wikipedia, [Proclamation of the German Empire](https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire) (1871년 1월 18일, 베르사유 거울의 방)
     - Wikipedia, [Italian unification](https://en.wikipedia.org/wiki/Italian_unification) (1861년 왕국 선포, 1870년 로마 병합), [Unification of Germany](https://en.wikipedia.org/wiki/Unification_of_Germany) (1866년 프로이센-오스트리아 전쟁, 1870~1871년 프로이센-프랑스 전쟁)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 관세 동맹 연도는 OpenStax가 1834년, Wikipedia가 1818년(프로이센 관세 동맹의 출발)으로 써서 기준이 달라요. 본문은 독일 관세 동맹이 출범한 1834년을 따랐어요. 비스마르크의 "철과 피" 연설(1862년)과 덴마크 전쟁(1864년)은 대조 자료에서 따로 확인하지 못했어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 관세 동맹 연도는 OpenStax가 1834년, Wikipedia가 1818년(프로이센 관세 동맹의 출발)으로 써서 기준이 달라요. 본문은 독일 관세 동맹이 출범한 1834년을 따랐어요.

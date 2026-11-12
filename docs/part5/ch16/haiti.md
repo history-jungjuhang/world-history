@@ -27,15 +27,16 @@
 |---|---|
 | 1791 | 노예들의 대규모 봉기가 시작돼요. |
 | 1794 | 혁명 중인 프랑스가 식민지의 노예제를 없애요. |
-| 1801 | 루베르튀르가 헌법을 만들고 섬 전체의 노예를 해방해요. |
-| 1802 | 나폴레옹이 군대를 보내 노예제를 되살리려 해요. 루베르튀르는 붙잡혀 프랑스 감옥에 갇히고, 그곳에서 생을 마쳐요. |
+| 1801 | 루베르튀르가 주도한 헌법이 노예제를 영원히 없앤다고 밝혀요. 생도맹그는 프랑스에 속하되 스스로 법을 정하는 곳이라고 했어요. |
+| 1802 | 나폴레옹이 군대를 보내 노예제를 되살리려 해요. 루베르튀르는 붙잡혀 프랑스 동부의 주(Joux) 요새에 갇혀요. |
+| 1803년 4월 7일 | 루베르튀르가 갇힌 요새에서 숨져요. |
 | 1804년 1월 1일 | 데살린(Jean-Jacques Dessalines)이 독립을 선언하고, 나라 이름을 **아이티**라고 해요. |
 
 나폴레옹의 군대는 강했지만, 다시 노예가 되지 않겠다는 사람들의 저항은 더 끈질겼어요. 프랑스군은 게릴라전과 황열병에 크게 꺾였어요. 그렇게 아이티는 미국에 이어 아메리카에서 두 번째로 독립한 나라가 됐어요. 노예였던 사람들이 노예제를 무너뜨리고 세운 나라는 세계사에서 처음이었어요.
 
 ## 자유의 값
 
-독립 뒤에도 아이티는 고립됐어요. 노예제를 유지하던 나라들은 아이티를 두려워했어요. 미국은 1862년에야 아이티를 독립국으로 인정했어요. 프랑스는 1825년 독립을 인정하는 대가로 막대한 배상금을 요구했고, 이 빚은 오랫동안 아이티 경제를 짓눌렀어요.
+독립 뒤에도 아이티는 고립됐어요. 노예제를 유지하던 나라들은 아이티를 두려워했어요. 미국은 1862년에야 아이티를 독립국으로 인정했어요. 프랑스는 1825년 독립을 인정하는 대가로 1억 5천만 프랑의 배상금을 요구했어요. 액수는 1838년에 줄었지만 이 빚은 오랫동안 아이티 경제를 짓눌렀어요.
 
 그래도 아이티의 영향은 컸어요. 다음 페이지에서 볼 [라틴 아메리카 독립](latin-america.md)의 지도자 볼리바르는 아이티의 도움을 받았고, 그 조건으로 노예 해방을 약속했어요. 아이티 혁명은 다른 곳의 노예들에게 희망이 되었고, 노예를 부리던 사람들에게는 두려움이 됐어요.
 
@@ -64,7 +65,10 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [7.3 Revolutions: America, France, and Haiti](https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti), [8.1 Revolution for Whom?](https://openstax.org/books/world-history-volume-2/pages/8-1-revolution-for-whom), [8.3 Spanish South America](https://openstax.org/books/world-history-volume-2/pages/8-3-spanish-south-america) (CC BY-NC-SA 4.0)
     - U.S. Department of State, Office of the Historian, [The United States and the Haitian Revolution, 1791–1804](https://history.state.gov/milestones/1784-1800/haitian-rev) (봉기 시작 1791년 8월 22일, 1760년대 가장 수익성 높은 식민지, 프랑스 1825년·미국 1862년 승인)
+    - Haiti-Référence, [Constitution de 1801](https://www.haiti-reference.info/pages/plan/histoire-et-societe/documents-historiques/constitutions/1801-texte/) (제1조 프랑스 제국에 속함, 제3조 노예제 금지)
+    - Archives nationales d'outre-mer(프랑스 해외국립기록원), [Toussaint Louverture](https://archives-nationales-outre-mer.culture.gouv.fr/en/node/150) (1802년 체포, 1803년 4월 7일 주 요새에서 사망)
+    - Assemblée nationale(프랑스 하원), [질의 16-335QOSD](https://questions.assemblee-nationale.fr/q16/16-335QOSD.htm) (배상금 1억 5천만 프랑)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 1825년 배상금 액수(1억 5천만 프랑, 뒤에 줄어듦)는 자료마다 표현이 달라 본문에 숫자를 넣지 않았어요. 루베르튀르가 숨진 해(1803년)는 대조 자료에서 확인하지 못해 연도를 쓰지 않았어요. "투생 루베르튀르" 표기는 교과서마다 "루베르튀르/루베르투르"로 갈릴 수 있어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 1838년에 줄어든 배상금 총액(9천만 프랑으로 알려져 있어요)은 이번에 열어 본 자료에서 확인하지 못해 숫자를 넣지 않았어요. "투생 루베르튀르" 표기는 교과서마다 "루베르튀르/루베르투르"로 갈릴 수 있어요.

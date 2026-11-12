@@ -25,7 +25,7 @@
 
 | 해 | 일 | 내용 |
 |---|---|---|
-| 1833 | 영국 공장법 | 섬유 공장에서 9세 미만 어린이의 노동을 금지하고, 9~13세는 하루 9시간까지만 일하게 해요. 이를 감독할 **공장 감독관**도 처음 둬요. |
+| 1833 | 영국 공장법 | 섬유 공장에서 9세 미만 어린이의 노동을 금지하고, 9세 이상 13세 미만은 하루 9시간, 13~18세는 하루 12시간까지만 일하게 해요. 이를 감독할 **공장 감독관**도 처음 둬요. |
 | 1848 | 영국 공중 보건법 | 하수 처리 등을 다루는 보건 기구를 만들어요. |
 | 1863 | 런던 지하철 개통 | 세계 첫 지하철이 다니기 시작해요. |
 | 1883 | 독일 의료 보험법 | 노동자를 위한 건강 보험을 처음 법으로 만들어요. |
@@ -58,8 +58,8 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [10.1 Inventions, Innovations, and Mechanization](https://openstax.org/books/world-history-volume-2/pages/10-1-inventions-innovations-and-mechanization), [10.2 Life in the Industrial City](https://openstax.org/books/world-history-volume-2/pages/10-2-life-in-the-industrial-city), [10.5 Regulation, Reform, and Revolutionary Ideologies](https://openstax.org/books/world-history-volume-2/pages/10-5-regulation-reform-and-revolutionary-ideologies) (CC BY-NC-SA 4.0)
-    - The National Archives(영국 국립기록원) 교육 자료, [1833 Factory Act: Did it solve the problems of children in factories?](https://cdn.nationalarchives.gov.uk/documents/education/factory-actdoc.pdf) (9세 미만 고용 금지, 9~13세는 하루 9시간 이하, 하루 2시간 교육, 감독관 4명 임명)
+    - The National Archives(영국 국립기록원) 교육 자료, [1833 Factory Act: Did it solve the problems of children in factories?](https://cdn.nationalarchives.gov.uk/documents/education/factory-actdoc.pdf) (9세 미만 고용 금지, 9~13세는 하루 9시간 이하, 13~18세는 하루 12시간 이하, 하루 2시간 교육, 감독관 4명 임명)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
 - **확인 필요:** 하루 노동 시간("열두 시간이 넘게")과 맨체스터 인구 증가 폭은 구체적 숫자를 대조하지 못해 넓게 썼어요.

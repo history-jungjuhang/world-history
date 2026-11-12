@@ -27,7 +27,7 @@
 
 뒤따른 조약들로 외국인은 청에서 죄를 지어도 자기 나라 법으로 재판받는 **치외 법권**을 얻었어요. 1844년에는 미국, 프랑스와도 비슷한 조약을 맺었어요. 이런 조약은 한쪽에만 권리가 있어서 **불평등 조약**이라고 불러요.
 
-영국과 프랑스는 1856년 다시 전쟁을 일으켰어요(제2차 아편 전쟁). 1860년 두 나라 군대가 베이징에 들어가 황실 정원인 원명원을 약탈하고 불태웠어요. 청은 더 많은 항구를 열고 외국 외교관이 베이징에 머물게 해야 했어요.
+영국과 프랑스는 1856년 다시 전쟁을 일으켰어요(제2차 아편 전쟁). 1860년 10월 두 나라 군대는 베이징 외곽의 황실 정원 원명원을 약탈했어요. 뒤이어 영국군이 원명원을 불태웠어요. 청은 더 많은 항구를 열고 외국 외교관이 베이징에 머물게 해야 했어요.
 
 ## 안에서도 흔들리고
 
@@ -45,7 +45,8 @@
 !!! note "★ 한 걸음 더 (심화)"
     - 제1차 아편 전쟁의 시작을 1839년(첫 충돌)으로 보는 자료와 1840년(영국 원정군 출발)으로 보는 자료가 있어요. 한국 교과서에서는 흔히 1840~1842년으로 써요.
     - 중국에서는 아편 전쟁부터 시작된 외세의 침탈 시기를 "굴욕의 100년"이라고 부르기도 해요.
-    - 1899~1901년 외세를 몰아내자는 **의화단 운동**이 일어났지만 8개국 연합군에게 진압됐고, 청은 더 큰 배상금을 물어야 했어요. 결국 청은 1911년 신해혁명으로 무너져요.
+    - 1899년 무렵부터 외세를 몰아내자는 **의화단 운동**이 번졌어요. 여덟 나라가 군대를 보냈고, 1900년 연합군이 베이징에 들어갔어요. 청은 1901년 9월 맺은 의정서에 따라 큰 배상금을 물어야 했어요.
+    - 1911년 신해혁명이 일어났고, 1912년 2월 12일 마지막 황제 푸이가 물러나면서 청 왕조가 끝났어요.
 
 ## 한국사와 이어 보기
 
@@ -69,8 +70,11 @@
     - OpenStax, *World History Volume 2: from 1400*, [9.1 The Second Industrial Revolution](https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution), [9.3 Colonial Empires](https://openstax.org/books/world-history-volume-2/pages/9-3-colonial-empires), [9.4 Exploitation and Resistance](https://openstax.org/books/world-history-volume-2/pages/9-4-exploitation-and-resistance) (CC BY-NC-SA 4.0)
     - Wikipedia, [First Opium War](https://en.wikipedia.org/wiki/First_Opium_War) (1839년 6월 3일 후먼, 1842년 8월 29일 난징 조약), [Hundred Days' Reform](https://en.wikipedia.org/wiki/Hundred_Days%27_Reform) (1898년 6월 11일~9월 21일)
     - U.S. Department of State, Office of the Historian, [The Opening to China Part I: the First Opium War, the United States, and the Treaty of Wangxia, 1839–1844](https://history.state.gov/milestones/1830-1860/china-1) (다섯 항구, 1844년 미국 조약)
+    - James Hevia, [Beijing 1860: Loot, Prize, and Retribution](https://warwick.ac.uk/fac/arts/history/students/modules/hi294/readings/james_hevia_beijing_1860_2003.pdf) (워릭대 강의 자료 공개본; 10월 7일 프랑스군·영국군 약탈, 10월 18~19일 영국군 방화)
+    - China Culture(중국 문화 당국 누리집), [푸이 퇴위](https://en.chinaculture.org/focus/focus/2011xh100nian/2011-09/24/content_423607.htm) (1912년 2월 12일)
+    - 日本 国立国会図書館(일본 국립국회도서관), [The Hokushin Incident](https://www.ndl.go.jp/modern/e/cha2/description24.html) (의화단 사건, 1901년 9월 의정서)
     - 한국민족문화대백과사전, [영선사](https://encykorea.aks.ac.kr/Article/E0037460) (1881년 김윤식, 톈진 기기국), [청일전쟁](https://encykorea.aks.ac.kr/Article/E0056610) (1894~1895년, 조선 지배권)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 영선사 인원은 백과사전 항목마다 다르게 적혀 있어(38명, 69명 등) 숫자를 쓰지 않았어요. 태평천국 사망자 2천만~3천만 명은 OpenStax의 추정치예요. 의화단 진압의 "8개국 연합군"은 대조 자료에서 따로 확인하지 못했어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 영선사 인원은 백과사전 항목마다 다르게 적혀 있어(38명, 69명 등) 숫자를 쓰지 않았어요. 태평천국 사망자 2천만~3천만 명은 OpenStax의 추정치예요. 의화단 진압에 나선 여덟 나라 수와 1900년 베이징 진입은 이번에 열어 본 자료에서 직접 확인하지 못했어요(국립국회도서관 자료는 "열강"으로만 써요).

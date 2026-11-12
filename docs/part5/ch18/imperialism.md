@@ -17,7 +17,7 @@
 
 [제2차 산업 혁명](../ch17/second-industrial.md)으로 공장이 커지자 산업화된 나라들은 고무, 석유, 구리, 면화 같은 원료가 더 많이, 더 싸게 필요했어요. 만든 물건을 팔 시장도 필요했어요. 다른 강대국보다 먼저 땅을 차지해야 한다는 경쟁심과 나라의 체면도 더해졌어요.
 
-이를 정당화하는 생각도 퍼졌어요. 생물의 진화 이론을 사람 사회에 억지로 갖다 붙여 "강한 민족이 약한 민족을 지배하는 게 자연스럽다"고 한 **사회 진화론**, 그리고 "뒤처진 사람들에게 문명을 전해 주는 것이 우리의 의무"라는 **문명화의 사명**이 대표적이에요. 영국 작가 키플링(Rudyard Kipling)은 1899년 시 「백인의 짐」에서 이런 생각을 드러냈어요. 오늘날 이런 주장은 인종 차별에 바탕을 둔 것으로 비판받아요.
+이를 정당화하는 생각도 퍼졌어요. 생물의 진화 이론을 사람 사회에 억지로 갖다 붙여 "강한 민족이 약한 민족을 지배하는 게 자연스럽다"고 한 **사회 진화론**, 그리고 "뒤처진 사람들에게 문명을 전해 주는 것이 우리의 의무"라는 **문명화의 사명**이 대표적이에요. 영국 작가 키플링(Rudyard Kipling)은 1899년 시 「백인의 짐」에서 이런 생각을 드러냈어요. 이 시는 에스파냐와의 전쟁 뒤 필리핀을 다스리려던 미국을 향해, 다른 사람들을 다스리는 일을 백인의 의무처럼 말했어요. 오늘날 이런 주장은 인종 차별에 바탕을 둔 것으로 비판받아요.
 
 지배를 가능하게 한 기술도 있었어요. 증기선은 얕은 강을 거슬러 대륙 안쪽으로 들어갔고, 말라리아 약 **키니네**는 유럽 사람들이 열대 지역에서 버티게 했어요. 빠르게 장전하는 소총과 1초에 여러 발을 쏘는 **맥심 기관총**은 전투의 힘 차이를 크게 벌렸어요. 전신은 본국과 식민지를 이었어요.
 
@@ -30,7 +30,7 @@
 - **문화와 신앙:** 선교사들이 병원과 학교를 세우기도 했지만, 오랜 관습과 신앙을 버리라고 강요해 공동체가 깨지기도 했어요.
 - **차별:** 식민지 사람들은 자기 땅에서 2등 시민이 됐어요.
 
-인도의 나오로지(Dadabhai Naoroji)는 영국 지배가 인도의 부를 영국으로 빠져나가게 한다고 비판하는 글을 썼어요. 필리핀의 아기날도(Emilio Aguinaldo)는 에스파냐를 몰아낸 뒤 미국이 필리핀을 다스리겠다고 하자 이에 맞서 싸웠어요. 이렇게 저항은 무장 투쟁, 글과 연설, 불매 운동, 종교 운동 등 여러 모양이었어요. 다음 페이지부터 [아프리카](scramble-africa.md), [인도](british-india.md), [중국](opium-war.md), [일본](meiji.md), [오스만 제국](ottoman-reform.md)이 각각 어떻게 대응했는지 봐요.
+인도의 나오로지(Dadabhai Naoroji)는 1901년 책 『인도의 빈곤과 비영국적 통치』(Poverty and Un-British Rule in India) 등에서 영국 지배가 인도의 부를 영국으로 빠져나가게 한다고 비판했어요. 이 주장을 흔히 **부의 유출론**(drain theory)이라고 불러요. 필리핀의 아기날도(Emilio Aguinaldo)는 에스파냐를 몰아낸 뒤 미국이 필리핀을 다스리겠다고 하자 이에 맞서 싸웠어요. 이렇게 저항은 무장 투쟁, 글과 연설, 불매 운동, 종교 운동 등 여러 모양이었어요. 다음 페이지부터 [아프리카](scramble-africa.md), [인도](british-india.md), [중국](opium-war.md), [일본](meiji.md), [오스만 제국](ottoman-reform.md)이 각각 어떻게 대응했는지 봐요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     힘센 나라들은 "문명을 전해 준다"고 말했지만, 실제로는 남의 땅과 자원과 노동을 가져갔고, 지배받은 사람들은 여러 방법으로 맞섰어요.
@@ -60,8 +60,10 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 2: from 1400*, [9.2 Motives and Means of Imperialism](https://openstax.org/books/world-history-volume-2/pages/9-2-motives-and-means-of-imperialism), [9.4 Exploitation and Resistance](https://openstax.org/books/world-history-volume-2/pages/9-4-exploitation-and-resistance) (CC BY-NC-SA 4.0)
+    - Fordham University, Internet Modern History Sourcebook, [Rudyard Kipling: The White Man's Burden, 1899](https://sourcebooks.web.fordham.edu/mod/kipling.asp) (1899년, 미국의 필리핀 지배를 향한 시)
+    - Internet Archive, Dadabhai Naoroji, [Poverty and Un-British Rule in India](https://archive.org/details/povertyunbritish00naoruoft) (1901년, 런던 Sonnenschein)
     - 한국민족문화대백과사전, [통감부](https://encykorea.aks.ac.kr/Article/E0059235) (1906년 2월 설치, 1910년 8월 폐지, 제2차 한일 협약으로 외교권 박탈)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 키플링 시의 연도(1899년)와 맥심 기관총 성능은 OpenStax 한 곳에서만 확인했어요. 나오로지의 비판은 흔히 "부의 유출론(drain theory)"이라 부르지만 이번에는 원문을 열어 보지 못해 이름을 쓰지 않았어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 맥심 기관총 성능은 OpenStax 한 곳에서만 확인했어요(대조 자료로 제시된 영국 공군 누리집은 열리지 않았어요).

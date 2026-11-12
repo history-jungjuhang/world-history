@@ -13,5 +13,6 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
       - run: pip install -r requirements.txt ghp-import
+      - run: python3 tools/make_review_bundle.py
       - run: mkdocs build --strict
       - run: ghp-import --no-jekyll --push --force --message "Deploy site" site

@@ -58,12 +58,12 @@ nav:
         - "구석기 사람들은 사냥하고 모으며 옮겨 다녔다": part1/ch02/paleolithic.md
         - "동굴 벽화는 생각하는 인류의 흔적": part1/ch02/cave-art.md
       - "2.2 머무는 사람들":
-        - "농사를 시작하자 한곳에 머물러 살게 됐다": part1/ch02/farming.md
+        - "농사와 함께 한곳에 머물러 사는 삶이 늘었다": part1/ch02/farming.md
         - "마을이 커지며 가진 사람과 못 가진 사람이 생겼다": part1/ch02/villages.md
     - "3장 강가에서 문명이 시작되다":
       - part1/ch03/index.md
       - "3.1 문명이란":
-        - "문명은 도시, 문자, 나라가 함께 생긴 것": part1/ch03/civilization.md
+        - "문명은 도시와 다스리는 조직이 함께 생긴 것": part1/ch03/civilization.md
       - "3.2 네 강의 문명":
         - "메소포타미아, 두 강 사이에 도시가 섰다": part1/ch03/mesopotamia.md
         - "쐐기 문자와 함무라비 법전": part1/ch03/cuneiform-law.md
@@ -89,12 +89,12 @@ nav:
         - "한나라 때 비단길이 열렸다": part2/ch05/han-silk-road.md
         - "초원의 유목민, 말 위에서 사는 사람들": part2/ch05/steppe.md
       - "5.2 인도":
-        - "아소카왕은 전쟁을 멈추고 불교를 널리 퍼뜨렸다": part2/ch05/ashoka.md
+        - "아소카왕은 칼링가 전쟁을 뉘우치고 불교를 도왔다": part2/ch05/ashoka.md
         - "굽타 왕조 때 힌두 문화가 자리 잡았다": part2/ch05/gupta.md
     - "6장 페르시아, 그리스, 로마":
       - part2/ch06/index.md
       - "6.1 페르시아와 그리스":
-        - "페르시아는 여러 민족을 너그럽게 다스렸다": part2/ch06/persia.md
+        - "페르시아는 여러 민족을 인정하며 다스렸다": part2/ch06/persia.md
         - "폴리스, 시민이 함께 다스린 도시": part2/ch06/polis.md
         - "아테네 민주정, 그러나 모두가 시민은 아니었다": part2/ch06/athens-democracy.md
         - "알렉산드로스가 동서 문화를 섞었다": part2/ch06/alexander.md
@@ -106,7 +106,7 @@ nav:
     - "7장 아프리카와 아메리카의 고대 문명":
       - part2/ch07/index.md
       - "7.1 아프리카":
-        - "반투족은 농사와 철을 들고 대륙을 가로질렀다": part2/ch07/bantu.md
+        - "반투어를 쓰는 사람들은 수천 년에 걸쳐 아프리카 남쪽으로 퍼졌다": part2/ch07/bantu.md
         - "쿠시 왕국은 한때 이집트를 다스렸다": part2/ch07/kush.md
         - "악숨 왕국은 홍해 무역으로 부유해졌다": part2/ch07/aksum.md
       - "7.2 아메리카":
@@ -240,7 +240,7 @@ nav:
     - "21장 냉전과 새로 독립한 나라들":
       - part6/ch21/index.md
       - "21.1 냉전":
-        - "냉전, 총을 쏘지 않은 대결": part6/ch21/cold-war.md
+        - "냉전, 미국과 소련의 오랜 대결": part6/ch21/cold-war.md
         - "6·25 전쟁, 냉전이 뜨거워진 곳": part6/ch21/korean-war.md
         - "베를린 장벽이 무너지고 소련이 해체됐다": part6/ch21/cold-war-end.md
       - "21.2 독립과 권리":

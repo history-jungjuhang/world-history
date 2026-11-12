@@ -3,7 +3,7 @@
 큰 강가에 도시와 문자와 나라가 함께 생겨요. 메소포타미아, 이집트, 인더스, 황허를 둘러봐요.
 
 <div class="ep-list">
-<a href="civilization/"><span class="ep-no">3.1.1</span><span class="ep-title">문명은 도시, 문자, 나라가 함께 생긴 것</span><span class="ep-time">읽기 5분</span></a>
+<a href="civilization/"><span class="ep-no">3.1.1</span><span class="ep-title">문명은 도시와 다스리는 조직이 함께 생긴 것</span><span class="ep-time">읽기 5분</span></a>
 <a href="mesopotamia/"><span class="ep-no">3.2.1</span><span class="ep-title">메소포타미아, 두 강 사이에 도시가 섰다</span><span class="ep-time">읽기 5분</span></a>
 <a href="cuneiform-law/"><span class="ep-no">3.2.2</span><span class="ep-title">쐐기 문자와 함무라비 법전</span><span class="ep-time">읽기 5분</span></a>
 <a href="egypt/"><span class="ep-no">3.2.3</span><span class="ep-title">나일강이 이집트를 키웠다</span><span class="ep-time">읽기 5분</span></a>

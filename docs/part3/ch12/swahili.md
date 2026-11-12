@@ -28,7 +28,7 @@
 
 스와힐리 도시들이 내보낸 것은 금, 상아, 목재, 향신료 같은 것이었어요. 들여온 것은 중국 도자기, 인도의 면직물, 유리구슬 같은 것이었어요. 10세기 아랍 여행가 알마스우디는 이 해안에서 상아와 금이 나가고 이슬람 지역의 도자기와 유리가 들어온다고 기록했어요. 슬픈 사실도 있어요. 킬와는 노예로 삼은 사람들도 내보냈어요.
 
-이 가운데 **킬와**(Kilwa)가 특히 부유했어요. 남쪽 항구 소팔라를 손에 넣어, 내륙의 [그레이트 짐바브웨](great-zimbabwe.md)에서 나오는 금 무역을 쥐었기 때문이에요. 모로코의 여행가 이븐 바투타도 킬와를 찾아 그 건축을 칭찬했어요.
+이 가운데 **킬와**(Kilwa)가 특히 부유했어요. 내륙의 [그레이트 짐바브웨](great-zimbabwe.md)에서 나온 금이 남쪽 항구 소팔라를 거쳐 킬와로 모였고, 킬와 상인들은 이 금 무역에서 큰 힘을 가졌어요. 킬와가 소팔라를 직접 다스렸다는 기록(『킬와 연대기』 등)도 있지만, 어디까지 다스렸는지는 확실하지 않아요. 모로코의 여행가 이븐 바투타도 킬와를 찾아 그 건축을 칭찬했어요.
 
 이 바다 무역의 모습은 15세기 말 크게 바뀌어요. 1498년 포르투갈의 바스쿠 다가마가 몸바사에 왔고, 1505년에는 포르투갈 함대가 킬와에 무력으로 개입했어요. 포르투갈은 16세기 초 해안의 많은 부분을 힘으로 차지했어요.
 
@@ -57,8 +57,8 @@
     - OpenStax, *World History Volume 1: to 1500*, [15.1 Culture and Society in Medieval Africa](https://openstax.org/books/world-history-volume-1/pages/15-1-culture-and-society-in-medieval-africa) (8세기 상인 정착, 915년 알마스우디 기록, 13세기 스와힐리 문명, CC BY-NC-SA 4.0)
     - OpenStax, *World History Volume 1: to 1500*, [15.2 Medieval Sub-Saharan Africa](https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa) (킬와와 소팔라, 짐바브웨 금)
     - Wikipedia, [Swahili coast](https://en.wikipedia.org/wiki/Swahili_coast) (도시들, 계절풍, 교역품, 언어와 종교, 동전, 1498년 다가마)
-    - Wikipedia, [Kilwa Sultanate](https://en.wikipedia.org/wiki/Kilwa_Sultanate) (시라즈 전설, 소팔라 장악, 교역품, 1505년 포르투갈, 2023년 유전자 연구)
+    - Wikipedia, [Kilwa Sultanate](https://en.wikipedia.org/wiki/Kilwa_Sultanate) (시라즈 전설, 소팔라 장악 기록, 교역품, 1505년 포르투갈, 2023년 유전자 연구)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 스와힐리 기원 논쟁의 연구사(식민 시대 외부 기원설과 그 비판)는 자료를 찾지 못해 자세히 쓰지 않았어요. 이븐 바투타의 킬와 방문 연도와 소말리아 쪽 모가디슈를 스와힐리 도시로 넣을지는 확인하지 못했어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 스와힐리 기원 논쟁의 연구사(식민 시대 외부 기원설과 그 비판)는 자료를 찾지 못해 자세히 쓰지 않았어요. OpenStax는 금이 소팔라를 거쳐 킬와를 부유하게 했다고만 쓰고 직접 지배는 말하지 않아요. 근거로 제시된 유네스코 『아프리카 일반사』 PDF는 열지 못했어요. 이븐 바투타의 킬와 방문 연도와 소말리아 쪽 모가디슈를 스와힐리 도시로 넣을지는 확인하지 못했어요.

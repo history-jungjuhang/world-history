@@ -4,7 +4,7 @@
 
 !!! abstract "이 페이지에서 배우는 것"
     - 구석기 시대는 사람이 ==돌을 깨뜨려 만든 도구==를 쓰던 아주 긴 시간이에요. 인류 역사의 대부분이 여기에 들어가요.
-    - 구석기 사람들은 15~40명쯤 무리를 지어 사냥하고 열매를 모으며 옮겨 다녔어요.
+    - 구석기 사람들은 몇 가족이 모인 작은 무리를 지어 사냥하고 열매를 모으며 옮겨 다녔어요.
     - 불, 바늘, 말 덕분에 추운 빙하기에도 살아남았어요.
 
 ## 지도 없는 장보기
@@ -21,7 +21,7 @@
 
 ## 무리 지어 살고 함께 나누기
 
-구석기 사람들은 보통 **15~40명** 정도가 무리를 이뤘어요. 몇 가족이 모인 크기예요. 견과류, 열매, 야생 곡식, 꿀, 물고기, 조개, 새, 곤충까지 먹었어요. 큰 짐승보다 작은 짐승을 더 자주 잡았을 것으로 보지만, 무게가 몇 톤씩 나가는 매머드를 사냥하기도 했어요.
+구석기 사람들은 흔히 몇 가족이 모인 무리로 살았을 것으로 봐요. OpenStax는 그 크기를 **15~40명**쯤으로 설명해요. 다만 무리의 크기는 장소와 때에 따라 달랐을 거예요. 견과류, 열매, 야생 곡식, 꿀, 물고기, 조개, 새, 곤충까지 먹었어요. 큰 짐승보다 작은 짐승을 더 자주 잡았을 것으로 보지만, 무게가 몇 톤씩 나가는 매머드를 사냥하기도 했어요.
 
 옮겨 다니며 사는 사람에게는 짐이 무거우면 안 돼요. 그래서 가진 것이 적었고, 무리 안에서 많이 갖고 적게 갖는 차이가 크지 않았다고 보는 견해가 많아요. 다만 어느 정도 평등했는지는 학자마다 생각이 달라요.
 
@@ -29,11 +29,11 @@
 
 ## 빙하기를 버틴 세 가지 무기
 
-구석기 시대에는 지구가 몹시 추워진 빙하기가 여러 번 있었어요. 마지막 빙하기는 약 1만 8천 년 전에 가장 추웠고 약 1만 2천 년 전에 끝났어요. 사람들은 이 추위를 이렇게 버텼어요.
+구석기 시대에는 지구가 몹시 추워진 빙하기가 여러 번 있었어요. 마지막 빙하기에는 약 2만 6천~1만 9천 년 전에 빙하가 가장 넓게 덮였고, 약 1만 2천 년 전에 빙하기가 끝났어요. 사람들은 이 추위를 이렇게 버텼어요.
 
-1. **불.** 현생 인류는 늦어도 약 12만 5천 년 전에는 불을 다룰 줄 알았어요. 불로 몸을 데우고, 음식을 익히고, 짐승을 쫓았어요.
-2. **바늘.** 약 3만 년 전쯤에는 뼈나 상아로 만든 바늘이 나와요. 가죽을 꿰매 몸에 맞는 옷을 지을 수 있었어요.
-3. **말.** 함께 사냥하려면 서로 계획을 나눠야 해요. 현생 인류는 적어도 10만 년 전부터 복잡한 말을 썼을 것으로 봐요.
+1. **불.** 남아프리카 원더워크 동굴에는 약 100만 년 전, 우리보다 앞선 사람 속이 불을 쓴 흔적이 남아 있어요. 불로 몸을 데우고, 음식을 익히고, 짐승을 쫓았어요.
+2. **바늘.** 약 4만 년 전 시베리아와 중국 북부 등에서 바늘귀가 달린 뼈바늘이 나와요. 그보다 앞서서는 뼈 송곳으로 구멍을 뚫어 가죽을 꿰맸어요. 덕분에 몸에 맞는 옷을 지을 수 있었어요.
+3. **말.** 함께 사냥하려면 서로 계획을 나눠야 해요. 상징을 쓴 흔적은 아주 오래전부터 나오지만, 말은 화석이나 유물에 남지 않아서 복잡한 말을 언제부터 썼는지는 정확히 알기 어려워요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     구석기 사람들은 돌을 깨서 만든 도구로 사냥하고 열매를 모으며, 작은 무리로 함께 옮겨 다니며 살았어요.
@@ -54,7 +54,7 @@
 
 ## 자주 하는 오해
 
-- **"구석기 사람들은 늘 굶주리고 힘들게 살았다."** 수렵·채집민은 먹을거리를 구하는 데 일주일에 20시간쯤 썼다는 연구가 있어요. 나중의 농부보다 적은 시간이에요.
+- **"구석기 사람들은 늘 굶주리고 힘들게 살았다."** 오늘날 필리핀의 수렵·채집민 아그타(Agta) 사람들을 조사한 연구에서는, 농사일을 더 많이 하는 마을 사람들이 바깥일을 더 오래 하고 쉬는 시간이 적었어요. 오늘날 사람들의 이야기라 구석기와 똑같다고 할 수는 없지만, 수렵·채집이 늘 쉴 틈 없는 삶은 아니었다는 단서예요.
 - **"원시인은 머리가 나빴다."** 같은 호모 사피엔스라면 뇌는 지금 우리와 거의 같았어요. 어디서 무엇이 언제 나는지 아는 지식은 대단히 많았어요.
 - **"구석기 사람들은 모두 동굴에서 살았다."** 동굴은 유적이 잘 남는 곳일 뿐이에요. 매머드 뼈로 집을 짓거나 바깥에 움막을 치고 살기도 했어요.
 
@@ -64,8 +64,13 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [2.1 Early Human Evolution and Migration](https://openstax.org/books/world-history-volume-1/pages/2-1-early-human-evolution-and-migration), [2.2 People in the Paleolithic Age](https://openstax.org/books/world-history-volume-1/pages/2-2-people-in-the-paleolithic-age), [2.3 The Neolithic Revolution](https://openstax.org/books/world-history-volume-1/pages/2-3-the-neolithic-revolution) (CC BY-NC-SA 4.0)
+    - Clark 외, [The Last Glacial Maximum](https://pubmed.ncbi.nlm.nih.gov/19661421/), *Science* 325 (2009)
+    - Berna 외, [Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave](https://pubmed.ncbi.nlm.nih.gov/22474385/), *PNAS* (2012)
+    - Gilligan 외, [Paleolithic eyed needles and the evolution of dress](https://pubmed.ncbi.nlm.nih.gov/38941472/), *Science Advances* (2024)
+    - Dyble 외, [Engagement in agricultural work is associated with reduced leisure time among Agta hunter-gatherers](https://pubmed.ncbi.nlm.nih.gov/31110340/), *Nature Human Behaviour* (2019)
+    - Smithsonian Human Origins, [Climate Effects on Human Evolution](https://humanorigins.si.edu/research/climate-and-human-evolution/climate-effects-human-evolution)
     - 한국민족문화대백과사전, [연천 전곡리 유적](https://encykorea.aks.ac.kr/Article/E0049243), 한국학중앙연구원
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 불 사용 시기(현생 인류 약 12만 5천 년 전)는 OpenStax 기준이고, 사람 속 전체로는 훨씬 이르다는 견해가 있어 두 번째 자료로 확인하지 못했어요. 무리 크기(15~40명)와 일주일 20시간 연구도 OpenStax에서만 확인했어요. '그렉 보웬'의 원어 철자(Greg Bowen)는 백과사전에 'Bowen, G.'로만 나와요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 무리 크기(15~40명)는 OpenStax에서만 확인했어요. '그렉 보웬'의 원어 철자(Greg Bowen)는 백과사전에 'Bowen, G.'로만 나와요.

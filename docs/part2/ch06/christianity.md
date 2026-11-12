@@ -29,7 +29,7 @@
 |---|---|
 | 64 | 로마 대화재 뒤 네로 황제가 크리스트교인을 처벌했어요. 기록에 남은 첫 박해예요. |
 | 250 | 데키우스 황제가 모든 사람에게 신들에게 제사를 올리라고 명령했어요. 거부한 크리스트교인이 처벌받았어요. |
-| 303~311 | 디오클레티아누스 때 가장 심한 박해가 있었어요. 교회가 부서지고 경전이 불탔어요. |
+| 303~313 | 디오클레티아누스 때 가장 심한 박해가 시작됐어요. 교회가 부서지고 경전이 불탔어요. 311년 갈레리우스 황제가 박해를 멈추라는 칙령을 냈지만, 동쪽 일부에서는 313년 무렵까지 박해가 이어졌어요. |
 | 313 | 콘스탄티누스와 리키니우스가 밀라노 칙령으로 크리스트교를 포함한 신앙의 자유를 인정했어요. |
 | 325 | 콘스탄티누스가 니케아 공의회를 열어 교리를 정리하게 했어요. |
 | 380 | 테오도시우스 1세가 니케아 신조를 따르는 크리스트교를 로마의 국교로 정했어요. |
@@ -63,8 +63,9 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1: to 1500*, [7.4 Religion in the Roman Empire](https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire), [10.1 The Eastward Shift](https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift) (CC BY-NC-SA 4.0)
     - SUNY *World History* (Lumen Learning, Boundless 원고, CC BY 4.0), [The Rise of Christianity](https://courses.lumenlearning.com/suny-worldhistory/chapter/the-rise-of-christianity/), [Constantine](https://courses.lumenlearning.com/suny-worldhistory/chapter/constantine/) — 네로(64), 대박해(302/303~311), 밀라노 칙령(313), 니케아(325), 380년 칙령 대조
+    - Wikipedia, [Diocletianic Persecution](https://en.wikipedia.org/wiki/Diocletianic_Persecution) (대박해의 시작 303년, 311년 관용 칙령, 동쪽의 313년까지 박해 대조용)
     - PBS, *The Roman Empire in the First Century*, [Paul](https://www.pbs.org/empires/romans/empire/paul.html) — 바울의 회심 이야기, 약 30년의 전도 여행, 유대인 아닌 사람에게의 전도
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 예수 처형 연도는 검색 결과에서 PBS 연표(30년)와 내셔널지오그래픽(33년)이 다르게 나와 "30년 무렵(30~33년 사이)"으로 썼고, 두 페이지를 직접 열어 보지는 못했어요. 데키우스 칙령(250년)은 OpenStax에서만 확인했어요. 대박해 시작은 OpenStax 303년, Lumen 302년이라 303년을 따랐어요. 바울·빌라도 표기는 교과서(바울, 빌라도)와 맞춰 볼 것.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 예수 처형 연도는 검색 결과에서 PBS 연표(30년)와 내셔널지오그래픽(33년)이 다르게 나와 "30년 무렵(30~33년 사이)"으로 썼고, 두 페이지를 직접 열어 보지는 못했어요. 데키우스 칙령(250년)은 OpenStax에서만 확인했어요. 대박해 시작은 OpenStax 303년, Lumen 302년이라 303년을 따랐어요. 끝난 해는 311년 관용 칙령 뒤에도 막시미누스 다이아가 동쪽에서 313년까지 박해를 이어 간 것을 반영해 303~313년으로 고쳤어요(위키백과 대조). 바울·빌라도 표기는 교과서(바울, 빌라도)와 맞춰 볼 것.

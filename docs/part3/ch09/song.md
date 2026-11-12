@@ -38,7 +38,7 @@
 
 ## 돈은 많았지만 군대는 약했어요
 
-송나라는 북쪽 이웃에게 자주 밀렸어요. 1004년에는 거란이 세운 **요나라**와 약속을 맺고 해마다 비단 20만 필과 은 10만 냥을 보냈어요. 1127년에는 여진이 세운 **금나라**가 카이펑을 차지하고 황제들을 붙잡아 갔어요. 송나라는 남쪽 **항저우**(杭州)로 옮겨 다시 나라를 이었고, 이때부터를 **남송**이라고 해요. 남송은 1279년 몽골에게 무너졌어요.
+송나라는 북쪽 이웃에게 자주 밀렸어요. 1004년에는 거란이 세운 **요나라**와 약속을 맺고 해마다 비단 20만 필과 은 10만 냥을 보냈어요. 1127년에는 여진이 세운 **금나라**가 카이펑을 차지하고 황제들을 붙잡아 갔어요. 붙잡히지 않은 황족 한 사람이 같은 해 남쪽에서 황제 자리에 올라 나라를 이었고, 이때부터를 **남송**이라고 해요. 남송은 몇 해 뒤 **항저우**(杭州)에 수도를 두었어요. 남송은 1279년 몽골에게 무너졌어요.
 
 | 시기 | 수도 |
 |---|---|
@@ -75,7 +75,8 @@
     - OpenStax, *World History Volume 1, to 1500*, [14.1 Song China and the Steppe Peoples](https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples) (CC BY-NC-SA 4.0)
     - Columbia University Asia for Educators, [Song Dynasty China](http://afe.easia.columbia.edu/songdynasty-module/), [Scholar-Officials and the Examination System](http://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html), [Paper Money](http://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html), [Timeline of Chinese History and Dynasties](https://afe.easia.columbia.edu/timelines/china_timeline.htm)
     - 한국민족문화대백과사전, [과거](https://encykorea.aks.ac.kr/Article/E0004562), 한국학중앙연구원
+    - 조익(趙翼), 『이십이사차기』(廿二史劄記) 권26, [위키문헌 사본](https://wk.100ke.info/wiki/%E5%BB%BF%E4%BA%8C%E5%8F%B2%E5%8A%84%E8%A8%98/%E5%8D%B726) (전연의 맹약 세폐)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 인구(약 5,500만→1억 2,000만)와 요나라에 보낸 비단·은의 양은 OpenStax 한 곳에서만 확인했어요. OpenStax는 은을 13만 온스로 적었고, 본문의 "10만 냥"은 이를 당시 단위로 바꿔 본 값이라(1냥≈37g 가정) 한문 기록으로 다시 확인해야 해요. '교자'라는 이름, 북송 수도의 당시 이름(변경), 남송 수도의 당시 이름(임안), 전족·성리학 설명은 이번에 따로 대조하지 못했어요. 쌍기가 들어온 해(956년)는 자료마다 달라 본문에 넣지 않았어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 인구(약 5,500만→1억 2,000만)와 요나라에 보낸 비단·은의 양은 OpenStax 한 곳에서만 확인했어요. OpenStax는 은을 13만 온스로 적었고, 한문 기록(조익, 『이십이사차기』 권26)에는 "은 10만 냥, 비단 20만 필"로 직접 적혀 있어 본문의 숫자를 그대로 두었어요. '교자'라는 이름, 북송 수도의 당시 이름(변경), 남송 수도의 당시 이름(임안)과 항저우를 수도로 정한 해(1138년으로 흔히 씀), 전족·성리학 설명은 이번에 따로 대조하지 못했어요. 쌍기가 들어온 해(956년)는 자료마다 달라 본문에 넣지 않았어요.

@@ -19,7 +19,7 @@
 
 가장 유명한 왕은 **만사 무사**(Mansa Musa)예요. 그는 1312년 무렵부터 1337년 무렵까지 다스렸어요(연도는 학자마다 조금씩 달라요). 1324~1325년 그는 이슬람교도로서 메카 순례를 떠났어요. 가는 길에 이집트 카이로에 들러 금을 아낌없이 나눠 줬다고 해요.
 
-그때 기록을 남긴 아랍 학자 알우마리(al-Umari)는 이 일로 카이로의 금값이 떨어졌다고 적었어요. 다만 그 하락 폭은 당시 이집트에서 흔한 변동 범위였다고 보는 역사가도 있어요. 순례 행렬에 사람이 수천, 금을 실은 낙타가 수십 마리였다는 기록도 있지만, 오늘날 역사가들은 이런 숫자를 정확한 통계보다 과장 섞인 표현으로 봐요.
+아랍 학자 알우마리(al-Umari)는 순례가 있고 여러 해 뒤에, 그때 일을 기억하는 카이로 사람들과 만사 무사를 맞이했던 관리들에게 들은 이야기를 적었어요. 그는 이 일로 카이로의 금값이 떨어졌다고 썼어요. 다만 그 하락 폭은 당시 이집트에서 흔한 변동 범위였다고 보는 역사가도 있어요. 순례 행렬에 사람이 수천, 금을 실은 낙타가 수십 마리였다는 기록도 있지만, 오늘날 역사가들은 이런 숫자를 정확한 통계보다 과장 섞인 표현으로 봐요.
 
 ## 학문의 도시 팀북투
 
@@ -63,8 +63,9 @@
     - OpenStax, *World History Volume 1: to 1500*, [15.2 Medieval Sub-Saharan Africa](https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa) (1235년 순디아타)
     - OpenStax, *World History Volume 1: to 1500*, [15.3 The People of the Sahel](https://openstax.org/books/world-history-volume-1/pages/15-3-the-people-of-the-sahel) (1353 이븐 바투타, 1430년대 송가이)
     - Wikipedia, [Mali Empire](https://en.wikipedia.org/wiki/Mali_Empire) (건국, 금광과 타가자, 수도 논쟁, 자료의 종류, 쇠퇴)
+    - World History Commons, [Al-Umari's Account of Mansa Musa's Visit to Cairo](https://worldhistorycommons.org/al-umaris-account-mansa-musas-visit-cairo) (알우마리가 카이로 사람들과 관리에게 들은 이야기라는 점)
     - Wikipedia, [Mansa Musa](https://en.wikipedia.org/wiki/Mansa_Musa) (재위, 알우마리의 기록과 반론, 행렬 숫자, 카탈루냐 지도, 재산 논쟁)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** "징게레베르", "수수(소소)" 표기 확인이 필요해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 알우마리가 글을 쓴 시기(1340년대로 알려짐)는 검색 요약으로만 봤어요. 근거로 제시된 Fordham 사료집은 열지 못했어요. "징게레베르", "수수(소소)" 표기 확인이 필요해요.

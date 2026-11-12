@@ -46,7 +46,7 @@
 1. **신앙 고백(샤하다):** 하느님은 하나이고 무함마드는 그 예언자라고 고백해요.
 2. **기도(살라트):** 하루 다섯 번 메카 쪽을 향해 기도해요.
 3. **나눔(자카트):** 가진 것의 일부를 어려운 사람에게 나눠요.
-4. **단식(사움):** 라마단 달에는 해가 떠 있는 동안 먹고 마시지 않아요.
+4. **단식(사움):** 라마단 달에는 새벽 동이 틀 때부터 해가 질 때까지 먹고 마시지 않아요.
 5. **순례(하지):** 몸과 형편이 허락하면 평생 한 번은 메카를 순례해요.
 
 !!! tip "10살 눈높이 한 줄 요약"
@@ -66,7 +66,7 @@
 
 - **"알라는 이슬람교만의 다른 신이다."** 알라는 아랍어로 '하느님'이라는 뜻이에요. 아랍어를 쓰는 크리스트교인도 하느님을 알라라고 불러요.
 - **"무슬림은 무함마드를 신으로 섬긴다."** 무슬림은 무함마드를 예언자로 높이지만 신으로 섬기지 않아요.
-- **"무슬림은 모두 아랍 사람이다."** 2009년 퓨 리서치 센터 추정으로 무슬림의 약 62%는 아시아·태평양 지역에, 약 20%는 중동·북아프리카에 살아요. 무슬림이 가장 많은 나라는 인도네시아였어요.
+- **"무슬림은 모두 아랍 사람이다."** 퓨 리서치 센터의 2020년 추정으로 무슬림의 약 59%는 아시아·태평양 지역에, 약 20%는 중동·북아프리카에 살아요. 무슬림이 가장 많은 나라는 인도네시아예요.
 
 ---
 
@@ -76,7 +76,9 @@
     - OpenStax, *World History Volume 1, to 1500*, [11.1 The Rise and Message of Islam](https://openstax.org/books/world-history-volume-1/pages/11-1-the-rise-and-message-of-islam) (CC BY-NC-SA 4.0)
     - Smarthistory, "Introduction to Islam", *Smarthistory of Art 2e* ([LibreTexts 판](https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/03%3A_SmartHistory_of_Art_III-_The_Islamic_World/01%3A_A_beginner's_guide/1.01%3A_Introduction_to_Islam))
     - Pew Research Center, [Mapping the Global Muslim Population](https://www.pewresearch.org/religion/2009/10/07/mapping-the-global-muslim-population/), 2009-10-07
+    - Pew Research Center, [How the Global Religious Landscape Changed From 2010 to 2020: Muslim population change](https://www.pewresearch.org/religion/2025/06/09/muslim-population-change/), 2025-06-09 (2020년 추정치)
+    - 쿠란 2장 187절([Quran.com](https://quran.com/2/187)) (단식 시간)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 무함마드의 출생 연도(570년 무렵)는 OpenStax에는 없고 Smarthistory 한 곳에서만 확인했어요. 지역별 무슬림 비율은 2009년 추정치라 최신 추정으로 바꿀지 정해야 해요. '쿠란/코란', '헤지라/히즈라' 표기를 기준 교과서로 맞춰야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 무함마드의 출생 연도(570년 무렵)는 OpenStax에는 없고 Smarthistory 한 곳에서만 확인했어요. '쿠란/코란', '헤지라/히즈라' 표기를 기준 교과서로 맞춰야 해요.

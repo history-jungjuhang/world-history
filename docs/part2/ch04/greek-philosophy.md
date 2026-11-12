@@ -19,6 +19,8 @@
 
 그 뒤로도 생각이 이어졌어요. 엠페도클레스는 만물이 흙, 물, 불, 공기 네 가지로 이루어졌다고 보았고, 데모크리토스는 더 이상 쪼갤 수 없는 아주 작은 알갱이, 곧 **원자**(atom)로 이루어졌다고 생각했어요.
 
+그렇다고 이 철학자들이 신을 아예 버린 것은 아니에요. 탈레스는 "만물은 신들로 가득하다"고 말했다고 전해지고, 엠페도클레스는 자연에 대한 생각과 함께 영혼을 깨끗이 하는 종교적 가르침도 남겼어요. 달라진 것은 천둥이나 무지개 같은 일을 신들의 다툼이 아니라 자연의 질서로 설명하려 했다는 점이에요.
+
 ## 아테네 광장의 질문쟁이, 소크라테스
 
 기원전 5세기 아테네는 시민들이 모여 나랏일을 결정하는 도시였어요. 말을 잘하는 사람이 힘을 얻었고, 돈을 받고 설득하는 말솜씨를 가르치는 **소피스트**들이 인기를 끌었어요.
@@ -61,8 +63,9 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [6.2 Ancient Greece](https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece) (CC BY-NC-SA 4.0)
     - Stanford Encyclopedia of Philosophy, [Socrates](https://plato.stanford.edu/entries/socrates/)
+    - Stanford Encyclopedia of Philosophy, [Presocratic Philosophy](https://plato.stanford.edu/entries/presocratics/) (초기 철학자들과 신화·종교의 관계 대조용)
     - Internet Encyclopedia of Philosophy, [Thales of Miletus](https://iep.utm.edu/thales/)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
 - **확인 필요:** 리케이온을 세운 해는 OpenStax가 기원전 334년, 흔히 쓰이는 연도는 기원전 335년이라 본문에 쓰지 않았어요. OpenStax는 소피스트가 "기원전 4세기 중엽부터" 나왔다고 적었지만 소크라테스와 같은 시대(기원전 5세기)라는 일반 설명과 어긋나 본문은 5세기 아테네로 썼어요. "아카데메이아/아카데미아", "리케이온/리케움" 표기 확인이 필요해요.

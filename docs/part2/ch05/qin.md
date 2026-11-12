@@ -23,8 +23,8 @@
 
 | 하나로 맞춘 것 | 무엇이 달라졌나 |
 |---|---|
-| 글자 | 나라마다 다르던 글씨체를 하나로 맞췄어요 |
-| 돈 | 가운데 네모 구멍이 뚫린 둥근 동전을 함께 썼어요 |
+| 글자 | 나라마다 다르던 글씨체를 소전(小篆)이라는 글씨체로 하나로 맞췄어요 |
+| 돈 | '반량(半兩)'이라고 새긴, 가운데 네모 구멍이 뚫린 둥근 동전(반량전)을 함께 썼어요 |
 | 무게와 길이의 단위 | 어디서나 같은 기준으로 물건을 재고 세금을 걷었어요 |
 | 다스리는 방법 | 귀족에게 땅을 대대로 물려주던 방식 대신, 황제가 뽑아 보낸 관리가 군과 현을 다스렸어요(**군현제**) |
 
@@ -63,8 +63,10 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [5.1 Ancient China](https://openstax.org/books/world-history-volume-1/pages/5-1-ancient-china) (CC BY-NC-SA 4.0)
     - Stanford Encyclopedia of Philosophy, [Legalism in Chinese Philosophy](https://plato.stanford.edu/entries/chinese-legalism/)
+    - Smithsonian National Museum of Asian Art, [Seal Script](https://asia-archive.si.edu/learn/chinas-calligraphic-arts/seal-script/) (진의 표준 글씨체 소전 대조용)
+    - Wikipedia, [Ban Liang](https://en.wikipedia.org/wiki/Ban_Liang) (반량전의 모양과 명문 대조용)
     - 한국민족문화대백과사전, [중국](https://encykorea.aks.ac.kr/Article/E0053702), 한국학중앙연구원
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 반량전(동전 이름)과 글씨체 이름(소전)은 두 자료에서 맞추지 못해 본문에서 뺐어요. 진나라 멸망 연도(기원전 207년/206년) 표기를 기준 교과서로 정해야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 반량전은 통일 전 진나라에서도 이미 쓰였다고 해요(위키백과). 진나라 멸망 연도(기원전 207년/206년) 표기를 기준 교과서로 정해야 해요.

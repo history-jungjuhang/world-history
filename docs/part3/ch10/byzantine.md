@@ -19,7 +19,7 @@
 
 이 도시는 자리부터 남달랐어요. 유럽과 아시아가 좁은 바다를 사이에 두고 마주 보는 곳이라, 흑해와 지중해를 오가는 배가 모두 이 앞을 지나야 했어요. 세 면은 바다, 한 면은 두꺼운 성벽이 지켰어요. 7~8세기에 아랍 군대가 이 도시를 에워쌌을 때도, 성벽과 "그리스의 불"이라 불린 불 무기 덕분에 막아 냈다고 해요.
 
-6세기의 **유스티니아누스 1세**(Justinian I, 재위 527~565)는 잃었던 이탈리아 땅을 되찾고, 흩어져 있던 로마의 법을 한데 모아 정리했어요. 이 법전은 훗날 유럽 여러 나라 법의 바탕이 됐어요. 그때 다시 지은 큰 성당 **하기아 소피아**(Hagia Sophia)는 지금도 이스탄불에 서 있어요.
+6세기의 **유스티니아누스 1세**(Justinian I, 재위 527~565)는 잃었던 이탈리아 땅을 되찾고, 흩어져 있던 로마의 법을 한데 모아 정리했어요. 이 법전은 훗날 유럽 여러 나라 법의 바탕이 됐어요. 532년 반란으로 불탄 성당을 다시 지어 537년에 봉헌한 **하기아 소피아**(Hagia Sophia)는 지금도 이스탄불에 서 있어요.
 
 ## 천 년을 버틴 힘, 그리고 끝
 
@@ -60,7 +60,8 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1: to 1500*, [10.2 The Byzantine Empire and Persia](https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia) (CC BY-NC-SA 4.0)
     - Wikipedia, [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire) (330년 시작, 1071년 만지케르트, 1204년 약탈과 1261년 회복, 1453년 멸망, 테오도시우스 성벽·그리스의 불·솔리두스 대조)
+    - William Allen, "Dematerialization at Hagia Sophia, Istanbul", Smarthistory ([Lumen Learning 판](https://courses.lumenlearning.com/suny-arthistory1/chapter/hagia-sophia/)) (532~537년 공사, 537년 봉헌)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 하기아 소피아 재건 연도(532~537년으로 알려짐)와 아랍 포위 연도(717~718년 등)는 두 번째 자료로 맞추지 못해 본문에 연도를 쓰지 않았어요. Britannica·World History Encyclopedia는 접속이 막혀 대조하지 못했어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 아랍 포위 연도(717~718년 등)는 두 번째 자료로 맞추지 못해 본문에 연도를 쓰지 않았어요. 하기아 소피아(532~537)는 Smarthistory 글(Lumen Learning 판)과 검색 요약으로 맞췄고, 메트로폴리탄미술관 글은 접속이 막혀 열지 못했어요. 532년 니카 반란으로 앞 성당이 불탔다는 점은 검색 요약으로만 확인했어요. Britannica·World History Encyclopedia는 접속이 막혀 대조하지 못했어요.

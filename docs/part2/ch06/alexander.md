@@ -30,7 +30,7 @@
 
 ## 제국은 나뉘고, 문화는 남았어요
 
-알렉산드로스는 후계자를 정하지 않았어요. 장군들이 수십 년 싸운 끝에 제국은 셋으로 크게 나뉘었어요. 이집트는 프톨레마이오스(Ptolemaios) 왕조, 서아시아는 셀레우코스(Seleukos) 왕조, 마케도니아와 그리스는 안티고노스(Antigonos) 왕조가 차지했어요.
+알렉산드로스는 후계자를 정하지 않았어요. 장군들이 약 50년 동안 싸우는 사이 제국은 여러 왕국으로 쪼개졌고, 나라의 경계도 여러 번 바뀌었어요. 그 가운데 오래 남은 큰 왕조가 셋이에요. 이집트의 프톨레마이오스(Ptolemaios) 왕조, 서아시아의 셀레우코스(Seleukos) 왕조, 마케도니아와 그리스의 안티고노스(Antigonos) 왕조예요.
 
 나라는 나뉘었지만 그리스 사람들은 새로 세운 도시에 신전, 극장, 체육관, 광장을 지었어요. 이집트의 알렉산드리아에는 큰 도서관과 학문 연구소(무세이온)가 생겨서 지중해 세계 학문의 중심이 됐어요. 프톨레마이오스 왕들은 그리스인이면서 파라오 칭호를 쓰고 이집트 신전을 지었어요.
 
@@ -66,7 +66,8 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1: to 1500*, [6.3 The Hellenistic Era](https://openstax.org/books/world-history-volume-1/pages/6-3-the-hellenistic-era) (CC BY-NC-SA 4.0)
     - SUNY *World History* (Lumen Learning, Boundless 원고, CC BY 4.0), [Alexander the Great](https://courses.lumenlearning.com/suny-worldhistory/chapter/alexander-the-great/) — 출생(356), 즉위(336), 원정 시작(334), 이수스(333)·가우가멜라(331), 인도(326), 죽음(323), 알렉산드리아 건설(331) 대조
+    - Wikipedia, [Diadochi](https://en.wikipedia.org/wiki/Diadochi) (후계자 전쟁 기간과 여러 왕국으로 나뉜 과정 대조용)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
 - **확인 필요:** 가우가멜라 전투를 OpenStax는 기원전 330년, Lumen은 331년으로 적어요. 일반적인 연대인 331년을 따랐어요. 죽을 때 나이는 OpenStax 33세, Lumen 약 32세라 "서른두 살 무렵"으로 썼어요. 간다라 불상 양식의 한반도 영향은 이번에 따로 자료를 열어 확인하지 못했어요.

@@ -22,14 +22,14 @@
 | 남은 흔적 | 알게 된 것 |
 |---|---|
 | 꿰매어 만든 가죽옷과 신발 | 바느질로 옷을 지어 추위를 막았어요 |
-| 구리 도끼 | 돌 도구를 쓰던 시대에 막 구리를 쓰기 시작했어요 |
+| 구리 날이 달린 도끼, 돌 날 단검, 돌 화살촉 | 돌 도구와 함께 구리로 만든 도구도 썼어요 |
 | 몸에 남은 상처 | 누군가에게 공격받아 숨진 것으로 보여요 |
 
-외치를 보관하는 이탈리아 볼차노의 남티롤 고고학 박물관은 외치가 "살해된 뒤 얼음 속에 자연스럽게 보존되었다"고 설명해요. 5,000년 넘게 지난 일을, 몸에 남은 흔적만으로 알아낸 거예요.
+외치를 보관하는 이탈리아 볼차노의 남티롤 고고학 박물관은 외치가 살해되었고, 그 뒤 얼음 속에서 자연스럽게 보존되었다고 소개해요. 외치의 왼쪽 등 위쪽에는 화살촉이 박혀 있었어요. 화살이 큰 혈관을 다쳐 피를 많이 흘렸고, 몇 분 안에 숨졌을 것으로 보여요. 위와 장에서는 죽기 몇 시간 전에 먹은 외알밀, 붉은사슴, 야생 염소(아이벡스)의 흔적도 나왔어요. 5,000년 넘게 지난 일을, 몸에 남은 흔적만으로 알아낸 거예요.
 
 ## 사실과 해석은 달라요
 
-흔적에서 바로 알 수 있는 것을 **사실**이라고 해요. "외치는 구리 도끼를 가지고 있었다"는 사실이에요. 그런데 "외치는 마을의 지도자였을 것이다"는 어떨까요? 구리 도끼가 귀한 물건이었으니 그럴 수도 있어요. 하지만 이건 흔적을 보고 내린 **해석**이에요. 다른 학자는 다르게 볼 수도 있어요.
+여러 증거로 확인할 수 있는 일을 **사실**이라고 해요. "외치는 구리 도끼를 가지고 있었다"는 사실이에요. 그런데 "외치는 마을의 지도자였을 것이다"는 어떨까요? 구리 도끼가 귀한 물건이었으니 그럴 수도 있어요. 하지만 이건 흔적을 보고 내린 **해석**이에요. 다른 학자는 다르게 볼 수도 있어요.
 
 역사가도 사람이라서 자기가 사는 시대와 생각에 따라 같은 흔적을 다르게 읽어요. 옛날 역사책은 주로 왕과 장군, 전쟁 이야기를 썼어요. 영국의 토머스 칼라일(Thomas Carlyle)은 1840년에 역사를 위대한 인물들의 이야기로 볼 수 있다고 주장했어요. 반대로 러시아 작가 톨스토이(Lev Tolstoy)는 소설 『전쟁과 평화』에서 역사를 움직이는 건 수많은 보통 사람들이라고 보았어요. 오늘날 역사가들은 왕뿐 아니라 농부, 여성, 어린이, 식민 지배를 받은 사람들의 삶도 함께 살피려고 해요.
 
@@ -68,10 +68,12 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [1.1 Developing a Global Perspective](https://openstax.org/books/world-history-volume-1/pages/1-1-developing-a-global-perspective), [1.3 Causation and Interpretation in History](https://openstax.org/books/world-history-volume-1/pages/1-3-causation-and-interpretation-in-history), [2.2 People in the Paleolithic Age](https://openstax.org/books/world-history-volume-1/pages/2-2-people-in-the-paleolithic-age) (CC BY-NC-SA 4.0)
-    - South Tyrol Museum of Archaeology, [The Iceman](https://www.iceman.it/en/the-iceman/)
+    - South Tyrol Museum of Archaeology, [The Iceman](https://www.iceman.it/en/the-iceman/), [Equipment](https://www.iceman.it/en/oetzi/equipment)
+    - California Academy of Sciences, [CSI: Iceman](https://www.calacademy.org/explore-science/csi-iceman)
+    - National Geographic, [Ötzi the Iceman: What we know 30 years after his discovery](https://www.nationalgeographic.com/premium/article/otzi-the-iceman-what-we-know-3-decades-after-his-discovery)
     - Science News, [Oldest known Homo sapiens fossils come from northern Africa, studies claim](https://www.sciencenews.org/article/oldest-known-homo-sapiens-fossils-come-northern-africa-studies-claim) (2017-06-07)
     - 한국민족문화대백과사전, [연천 전곡리 유적](https://encykorea.aks.ac.kr/Article/E0049243), 한국학중앙연구원
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 외치의 사인(화살촉 상처)과 마지막 식사 같은 세부 내용은 열어 본 박물관 페이지에 없어서 "공격받아 숨진 것으로 보인다"까지만 썼어요. 고유명사 '외치'는 국내 표기(외치/아이스맨)를 기준 교과서로 맞춰야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 화살 상처 위치와 마지막 식사는 National Geographic 기사로 확인했고, 박물관 쪽 자료로 한 번 더 대조하면 좋아요. 고유명사 '외치'는 국내 표기(외치/아이스맨)를 기준 교과서로 맞춰야 해요.

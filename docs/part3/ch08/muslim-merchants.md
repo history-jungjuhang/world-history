@@ -48,7 +48,7 @@
 
 ## 한국사와 이어 보기
 
-『고려사』에는 1024년과 1025년에 '대식국'(大食國, 아랍·이슬람 세계를 가리킨 이름) 상인 100명쯤이 고려에 와서 물건을 바쳤다는 기록이 있어요. 한반도와 이슬람 세계 사이의 상거래가 기록에 남은 이른 예로 꼽혀요.
+『고려사』에는 1024년에 '대식국'(大食國, 아랍·이슬람 세계를 가리킨 이름)의 열라자 등 100명이 와서 그 지역에서 나는 물건을 바쳤다는 기록이 있어요. 이듬해에도 대식국 사람들이 왔다고 전해요. 한반도와 이슬람 세계가 만난 일이 기록에 남은 이른 예로 꼽혀요.
 
 ## 오늘 생각해 볼 것
 
@@ -69,8 +69,9 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [9.4 North Africa's Mediterranean and Trans-Saharan Connections](https://openstax.org/books/world-history-volume-1/pages/9-4-north-africas-mediterranean-and-trans-saharan-connections), [12.1 The Indian Ocean World in the Early Middle Ages](https://openstax.org/books/world-history-volume-1/pages/12-1-the-indian-ocean-world-in-the-early-middle-ages) (CC BY-NC-SA 4.0)
     - Bennett Sherry, [Indian Ocean Trade Routes](https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/Origins/Unit6/Indian-Ocean-Trade-Routes/1040L), OER Project
+    - 국사편찬위원회 한국사데이터베이스, [『고려사』 현종 15년(1024) 9월 기사](https://db.history.go.kr/goryeo/level.do?levelId=kr_005r_0020_0070_0030&types=r)
     - Yongku Cha, "Korea and Islam Trade History Reflections on the Middle Ages"(튀르키예어 번역), *Ortaçağ Araştırmaları Dergisi* 7/1 (2024), 277–288, [PDF](https://dergipark.org.tr/en/download/article-file/3492545)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 『고려사』의 1024·1025년 대식국 상인 기록은 위 논문 초록과 신문 기사로만 확인했고, 『고려사』 원문(국사편찬위원회 DB)을 직접 열지 못했어요. 광저우 무슬림 공동체의 시작 시기는 OpenStax(이슬람이 당 초기에 중국에 들어왔고 광저우 화이성 모스크가 7세기에 지어졌다는 설명)로만 확인했어요. '다우/다우선' 표기를 기준 교과서로 맞춰야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 1024년 기사는 국사편찬위원회 DB 번역문으로 확인했어요(원문은 방문자를 '상인'이라고 적지 않아요). 1025년 기사는 위 논문으로만 확인했어요. 광저우 무슬림 공동체의 시작 시기는 OpenStax(이슬람이 당 초기에 중국에 들어왔고 광저우 화이성 모스크가 7세기에 지어졌다는 설명)로만 확인했어요. '다우/다우선' 표기를 기준 교과서로 맞춰야 해요.

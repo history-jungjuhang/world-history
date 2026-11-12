@@ -26,7 +26,7 @@
 | 집정관(콘술, consul) 2명 | 1년 임기의 최고 관리예요. 군대를 이끌고 나라를 다스렸어요. 서로 상대의 결정을 막을 수 있었어요. |
 | 원로원(Senate) | 관직을 지낸 사람들이 평생 모이는 회의예요. 나랏돈과 외교를 좌우해서 가장 힘이 셌어요. |
 | 민회 | 시민들이 모여 관리를 뽑고 법을 통과시켰어요. 재산이 많은 사람의 표가 더 무거운 민회도 있었어요. |
-| 독재관(dictator) | 전쟁 같은 비상시에만 6개월 동안 큰 권한을 주었어요. |
+| 독재관(dictator) | 전쟁 같은 비상시에 한 사람에게 큰 권한을 주었어요. 임기는 길어야 6개월이었고, 일을 마치면 더 일찍 물러나기도 했어요. |
 
 ## 평민들의 싸움
 
@@ -67,5 +67,5 @@
     - SUNY *World History* (Lumen Learning, Boundless 원고, CC BY 4.0), [The Establishment of the Roman Republic](https://courses.lumenlearning.com/suny-worldhistory/chapter/the-establishment-of-the-roman-republic/), [Structure of the Republic](https://courses.lumenlearning.com/suny-worldhistory/chapter/structure-of-the-republic/) — 왕 축출(기원전 509년 무렵), 집정관 2명 1년 임기, 독재관 6개월, 호민관 거부권, 혼합 정체 대조
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
 - **확인 필요:** 12표법은 OpenStax(기원전 450년)와 내셔널지오그래픽 로마 도로 기사(기원전 451년)에서 확인해 "450년 무렵"으로 썼어요. 평민 집정관(기원전 367년), 평민회 의결의 효력(기원전 287년)은 OpenStax에서만 확인했어요. 폴리비오스의 혼합 정체 설명은 Lumen이 혼합 정체를 다룬 것만 확인했고 폴리비오스 이름은 직접 대조하지 못했어요.

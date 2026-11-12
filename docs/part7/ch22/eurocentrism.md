@@ -28,9 +28,9 @@
 
 | 누가 | 무엇을 | 핵심 주장 |
 |---|---|---|
-| 사미르 아민(Samir Amin), 이집트 출신 경제학자 | 1970년대 '유럽 중심주의(Eurocentrism)'라는 말을 이념을 가리키는 용어로 씀 | 유럽의 경험을 온 세계의 기준으로 삼는 생각을 비판 |
+| 사미르 아민(Samir Amin), 이집트 출신 경제학자 | 『유럽 중심주의(L'eurocentrisme)』(1988, 프랑스어) | 유럽의 경험을 온 세계의 기준으로 삼는 생각을 하나의 이념으로 보고 비판 |
 | 에드워드 사이드(Edward Said), 팔레스타인 출신 미국 학자 | 『오리엔탈리즘』(1978) | 서양이 '동양'을 신비롭고 뒤떨어진 곳으로 그려 온 방식이 지배와 맞물려 있었다고 분석 |
-| 케네스 포머랜즈(Kenneth Pomeranz), 미국 역사학자 | 『대분기(The Great Divergence)』(2000) | 1800년 무렵까지 중국 양쯔강 하류와 영국은 생활 수준이 크게 다르지 않았고, 영국이 앞선 데는 석탄과 식민지라는 조건이 컸다고 주장 |
+| 케네스 포메란츠(Kenneth Pomeranz), 미국 역사학자 | 『대분기(The Great Divergence)』(2000) | 1800년 무렵까지 중국 양쯔강 하류와 영국은 생활 수준이 크게 다르지 않았고, 영국이 앞선 데는 석탄과 식민지라는 조건이 컸다고 주장 |
 | 재닛 아부루고드(Janet Abu-Lughod) | 『유럽 패권 이전』 | 13~14세기에 이미 유럽 밖에 큰 교역 체제가 있었다고 주장 ([교역망 페이지](trade-networks.md)) |
 
 이들의 공통 질문은 "유럽이 앞서 나간 것은 원래부터였나, 아니면 특정 시기의 조건 때문이었나?"예요.
@@ -42,7 +42,7 @@
 또 "유럽 중심을 버리자"는 말이 유럽사를 빼자는 뜻은 아니에요. 유럽에서 일어난 일도 세계의 여러 지역과 주고받은 관계 속에서 보자는 거예요. 이 책이 이슬람 세계, 인도양, 아프리카 왕국들에 장을 따로 둔 것도 그래서예요.
 
 !!! tip "10살 눈높이 한 줄 요약"
-    세계사는 처음에 유럽 사람들이 유럽을 가운데 놓고 썼기 때문에, 지금은 다른 지역도 주인공이 되도록 다시 쓰고 있어요.
+    19세기 유럽에서 자리 잡은 근대 역사학이 유럽을 가운데 놓고 세계사를 썼기 때문에, 지금은 다른 지역도 주인공이 되도록 다시 쓰고 있어요.
 
 !!! note "★ 한 걸음 더 (심화)"
     - **용어 점검:** '지리상의 발견', '신대륙', '암흑시대' 같은 말은 유럽의 시선에서 나온 표현이라는 지적이 있어요. 원주민에게 아메리카는 새 땅이 아니었어요. 이 책은 이런 말을 쓸 때 따옴표를 붙이거나 다른 말로 바꿔요.
@@ -51,7 +51,7 @@
 
 ## 한국사와 이어 보기
 
-나이지리아 작가 치누아 아체베(Chinua Achebe)는 미국 잡지 *The Atlantic* 인터뷰에서, 영국 선교와 식민 지배가 이그보 사회를 흔드는 이야기인 자기 소설 『모든 것이 무너진다』에 한국의 한 여자대학 학생들이 반 전체가 편지를 보내왔다고 말했어요. 학생들은 일본의 식민 지배를 겪은 자기 역사와 비슷하다고 느꼈다고 해요. 유럽 바깥의 경험끼리 서로 이어 볼 수 있다는 예예요.
+나이지리아 작가 치누아 아체베(Chinua Achebe)는 미국 잡지 *The Atlantic* 인터뷰에서, 영국 선교와 식민 지배가 이그보 사회를 흔드는 이야기인 자기 소설 『모든 것이 산산이 부서지다(Things Fall Apart)』를 읽은 한국의 한 여자대학 수업 학생들이 모두 편지를 보내와, 저마다 책에 대한 생각을 적었다고 말했어요. 학생들은 일본의 식민 지배를 겪은 자기 역사와 비슷하다고 느꼈다고 해요. 유럽 바깥의 경험끼리 서로 이어 볼 수 있다는 예예요.
 
 ## 오늘 생각해 볼 것
 
@@ -71,8 +71,11 @@
     - OpenStax, *World History Volume 1: to 1500*, [1.1 Developing a Global Perspective](https://openstax.org/books/world-history-volume-1/pages/1-1-developing-a-global-perspective) (CC BY-NC-SA 4.0). 지도의 시선, 유럽을 크게 그린 지도.
     - OpenStax, *World History Volume 1: to 1500*, [1.2 Primary Sources](https://openstax.org/books/world-history-volume-1/pages/1-2-primary-sources) (CC BY-NC-SA 4.0). 라틴 아메리카 기록의 파괴, 아체베 인터뷰 발췌(Katie Bacon, "An African Voice", *The Atlantic*).
     - OpenStax, *World History Volume 1: to 1500*, [1.3 Causation and Interpretation in History](https://openstax.org/books/world-history-volume-1/pages/1-3-causation-and-interpretation-in-history) (CC BY-NC-SA 4.0). 식민 강대국과 역사학, 진보 사관, 탈식민주의.
-    - Wikipedia, [Eurocentrism](https://en.wikipedia.org/wiki/Eurocentrism), [Orientalism (book)](https://en.wikipedia.org/wiki/Orientalism_(book)), [The Great Divergence (book)](https://en.wikipedia.org/wiki/The_Great_Divergence_(book)), [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence), [Mercator projection](https://en.wikipedia.org/wiki/Mercator_projection). 아민의 용어, 헤겔(1837), 사이드(1978), 포머랜즈(2000), 존스(1981)와 1700년 무렵 분기설, 메르카토르(1569).
+    - Bibliothèque nationale de France, [L'eurocentrisme: critique d'une idéologie](https://catalogue.bnf.fr/ark%3A/12148/cb34999025v). 사미르 아민, Anthropos, 1988.
+    - 글로벌지식협력단지 도서관, [『대분기』 한국어판 서지](https://www.gkedc.go.kr/library/search/catalog/view.do?bibctrlno=61159&se=b0&ty=B). 케네스 포메란츠, 에코리브르, 2016.
+    - 민음사, [치누아 아체베](https://minumsa.com/bookauth/11814/). 『모든 것이 산산이 부서지다』 번역 제목.
+    - Wikipedia, [Eurocentrism](https://en.wikipedia.org/wiki/Eurocentrism), [Orientalism (book)](https://en.wikipedia.org/wiki/Orientalism_(book)), [The Great Divergence (book)](https://en.wikipedia.org/wiki/The_Great_Divergence_(book)), [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence), [Mercator projection](https://en.wikipedia.org/wiki/Mercator_projection). 아민의 용어, 헤겔(1837), 사이드(1978), 포메란츠(2000), 존스(1981)와 1700년 무렵 분기설, 메르카토르(1569).
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 브리태니커 등 백과사전 본문은 이 환경에서 열리지 않아 학자·책 연도는 위키백과와 OpenStax로만 맞췄어요. 아체베 소설의 한국어 제목은 번역본마다 다를 수 있어요('모든 것이 산산이 부서지다' 등). '포머랜즈'(Pomeranz) 표기는 국내 번역서 표기와 맞춰 봐야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 브리태니커 등 백과사전 본문은 이 환경에서 열리지 않아 사이드·헤겔·존스의 책 연도는 위키백과와 OpenStax로만 맞췄어요. 아민이 1970년대 글에서 이미 비슷한 문제를 다뤘는지는 확인하지 못해, 용어를 책 제목으로 내건 1988년 책만 적었어요. 아체베 소설 제목은 민음사 번역본(『모든 것이 산산이 부서지다』)을 따랐어요.

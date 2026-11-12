@@ -23,7 +23,7 @@
 
 ## 시민이 직접 정했어요
 
-아테네 민주정은 오늘날 우리처럼 대표를 뽑아 맡기는 방식이 아니었어요. 시민이 직접 민회(Assembly)에 모여 법을 통과시키고, 전쟁과 평화를 정했어요. 민회는 1년에 적어도 열 번 열렸고, 회의가 성립하려면 약 6,000명이 모여야 했어요.
+아테네 민주정은 오늘날 우리처럼 대표를 뽑아 맡기는 방식이 아니었어요. 시민이 직접 민회(Assembly)에 모여 법을 통과시키고, 전쟁과 평화를 정했어요. 민회는 한 해에 여러 번 열렸어요. 기원전 4세기에는 한 해 40번쯤 열렸다고 해요. 보통 수천 명이 모였고, 도편 추방처럼 특별한 일을 정할 때는 6,000명 이상이 참여해야 했어요.
 
 많은 공직은 투표가 아니라 추첨으로 맡았어요. 말 잘하는 부자만 뽑히는 걸 막으려는 거예요. 다만 장군처럼 전문 능력이 필요한 자리는 선거로 뽑았어요.
 
@@ -63,8 +63,8 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1: to 1500*, [6.2 Ancient Greece](https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece) (CC BY-NC-SA 4.0)
-    - SUNY *World History* (Lumen Learning, Boundless 원고, CC BY 4.0), [Athens](https://courses.lumenlearning.com/suny-worldhistory/chapter/athens/), [Athenian Society](https://courses.lumenlearning.com/suny-worldhistory/chapter/athenian-society/) — 500인 평의회와 추첨, 민회 참석 약 6,000명, 장군은 선거, 페리클레스의 배심원 수당 대조
+    - SUNY *World History* (Lumen Learning, Boundless 원고, CC BY 4.0), [Athens](https://courses.lumenlearning.com/suny-worldhistory/chapter/athens/), [Athenian Society](https://courses.lumenlearning.com/suny-worldhistory/chapter/athenian-society/) — 500인 평의회와 추첨, 민회 참석 인원, 장군은 선거, 페리클레스의 배심원 수당 대조
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 클레이스테네스 개혁 연도는 자료마다 기원전 511/510년(참주 축출)·509년 무렵·508/507년으로 조금씩 달라요. 솔론 기원전 594년, 시민 수 3만~4만 명, 여성·노예·외국인 배제, 도편 추방제는 OpenStax 또는 일반 서술로만 확인했어요. '메토이코이' 표기는 교과서 표기(메틱/거류 외국인)와 맞춰 볼 것.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 클레이스테네스 개혁 연도는 자료마다 기원전 511/510년(참주 축출)·509년 무렵·508/507년으로 조금씩 달라요. 솔론 기원전 594년, 시민 수 3만~4만 명, 여성·노예·외국인 배제, 도편 추방제는 OpenStax 또는 일반 서술로만 확인했어요. '메토이코이' 표기는 교과서 표기(메틱/거류 외국인)와 맞춰 볼 것. 민회 횟수(4세기 한 해 40번)와 6,000명 요건(도편 추방·시민권 부여 같은 특별 의결)은 일반 연구서 지식으로 고쳤고 두 번째 자료로 다시 맞춰야 해요.

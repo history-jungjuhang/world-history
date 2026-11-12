@@ -11,7 +11,7 @@
 
 1955년 12월 1일 저녁, 미국 앨라배마주 몽고메리. 백화점에서 재봉사로 일하던 42세의 **로자 파크스**(Rosa Parks)가 퇴근 버스에 앉아 있었어요. 당시 그 도시의 법은 버스 좌석을 피부색에 따라 나누었어요. 백인 승객에게 자리를 내주라는 요구를 받았지만 파크스는 일어나지 않았고, 체포되었어요.
 
-파크스는 이 법으로 처벌받은 첫 사람이 아니었어요. 하지만 지역 사회에서 존경받던 그녀의 체포는 흑인 시민들을 하나로 모았어요. 몽고메리의 흑인 시민들은 1년 넘게 버스를 타지 않는 **버스 보이콧**을 벌였고, 1956년 법원은 버스 좌석 분리가 헌법에 어긋난다고 판결했어요.
+파크스는 이 법으로 처벌받은 첫 사람이 아니었어요. 하지만 지역 사회에서 존경받던 그녀의 체포는 흑인 시민들을 하나로 모았어요. 몽고메리의 흑인 시민들은 1955년 12월 5일부터 1956년 12월 20일까지 1년 넘게 버스를 타지 않는 **버스 보이콧**을 벌였어요. 이 운동을 이끈 지역 단체(몽고메리 개선 협회)의 대표로 뽑힌 사람이 젊은 목사 **마틴 루서 킹 주니어**(Martin Luther King Jr.)였어요. 1956년 법원은 버스 좌석 분리가 헌법에 어긋난다고 판결했어요.
 
 ## 미국: 법을 바꾸기까지
 
@@ -21,9 +21,9 @@
 | 1955~1956년 | 몽고메리 버스 보이콧 |
 | 1963년 6월 | 케네디 대통령이 텔레비전 연설로 인종과 상관없는 평등한 대우를 호소 |
 | 1964년 7월 2일 | 공공장소·학교·일자리에서의 차별을 금지한 **민권법** 서명 |
-| 1965년 8월 6일 | 흑인의 투표를 막던 장치(읽기 시험 등)를 금지한 **투표권법** 서명 |
+| 1965년 8월 6일 | 인종을 이유로 투표권을 빼앗는 것을 금지한 **투표권법** 서명. 차별이 심했던 지역에서는 읽기 시험 같은 장치를 멈추게 하고 연방 정부가 유권자 등록을 맡을 수 있게 함 |
 
-이 법들은 저절로 생기지 않았어요. 앨라배마주 셀마에서 평화롭게 행진하던 사람들이 경찰에게 공격당하고, 투표권 운동가들이 살해되는 일이 전국에 알려지면서 정부와 의회가 움직였어요. 이 운동을 이끈 사람 가운데 가장 널리 알려진 이가 비폭력을 강조한 목사 **마틴 루서 킹 주니어**(Martin Luther King Jr.)예요.
+이 법들은 저절로 생기지 않았어요. 1964년 민권법은 오랜 민권 운동이 쌓인 결과였어요. 1965년 3월 7일에는 앨라배마주 셀마에서 투표권을 요구하며 평화롭게 행진하던 사람들이 경찰에게 공격당했어요. 이 장면이 텔레비전으로 전국에 알려지자 분노가 커졌고, 그해 투표권법이 만들어지는 데 힘이 되었어요. 이 운동을 이끈 사람 가운데 가장 널리 알려진 이가 비폭력을 강조한 킹 목사예요.
 
 ## 남아프리카 공화국: 아파르트헤이트
 
@@ -31,7 +31,7 @@
 
 **아프리카 민족 회의**(ANC)를 비롯한 단체들은 청원과 시위로 맞섰어요. 1960년 샤프빌에서 평화롭게 시위하던 사람들이 경찰의 총격으로 목숨을 잃고 ANC가 금지되자, 일부는 무장 투쟁으로 돌아섰어요. 1976년에는 학생들의 시위를 경찰이 진압하며 100명이 넘는 사람이 숨졌어요. ANC 지도자 **넬슨 만델라**(Nelson Mandela)를 비롯해 수많은 활동가가 감옥에 갇혔어요.
 
-1980년대 들어 나라 안의 저항에 더해, 다른 나라들의 경제 제재와 남아프리카 기업 불매 운동, 국제 사회의 비판이 쌓였어요. 1991년 남아프리카 공화국은 아파르트헤이트 정책을 공식적으로 끝냈어요. 모든 인종이 함께 투표한 첫 선거는 그 뒤의 일이라 [1991년 이후의 세계](../../appendix/after-1991.md)에서 이어져요.
+1980년대 들어 나라 안의 저항에 더해, 다른 나라들의 경제 제재와 남아프리카 기업 불매 운동, 국제 사회의 비판이 쌓였어요. 1991년 남아프리카 공화국은 아파르트헤이트를 떠받치던 주요 법률들을 폐지했어요. 모든 인종이 함께 투표한 첫 총선이 열려 새 정부가 들어선 것은 1994년 4월이에요. 그 이야기는 [1991년 이후의 세계](../../appendix/after-1991.md)에서 이어져요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     피부색으로 사람을 나누는 법에 맞서, 사람들은 버스를 안 타고, 행진하고, 감옥에 가면서까지 그 법을 바꿨어요.
@@ -59,8 +59,12 @@
     - OpenStax, *World History Volume 2, from 1400*, [14.4 Global Tensions and Decolonization](https://openstax.org/books/world-history-volume-2/pages/14-4-global-tensions-and-decolonization) (CC BY-NC-SA 4.0)
     - U.S. National Archives, [Brown v. Board of Education (1954)](https://www.archives.gov/milestone-documents/brown-v-board-of-education), [Civil Rights Act (1964)](https://www.archives.gov/milestone-documents/civil-rights-act), [Voting Rights Act (1965)](https://www.archives.gov/milestone-documents/voting-rights-act)
     - U.S. National Archives, [An Act of Courage, The Arrest Records of Rosa Parks](https://www.archives.gov/education/lessons/rosa-parks): 1955년 12월 1일, 42세, NAACP 활동, 1956년 판결
+    - Stanford King Institute, [Montgomery Bus Boycott](https://kinginstitute.stanford.edu/montgomery-bus-boycott): 1955년 12월 5일~1956년 12월 20일, 킹의 몽고메리 개선 협회(MIA) 대표 선출
+    - Stanford King Institute, [Selma to Montgomery March](https://kinginstitute.stanford.edu/selma-montgomery-march): 1965년 3월 7일 '피의 일요일'과 투표권법
+    - South African History Online, [South African general elections 1994](https://sahistory.org.za/article/south-african-general-elections-1994): 1994년 4월 27일 첫 민주 총선
+    - United Nations, [The Long Road to Durban](https://www.un.org/en/chronicle/article/long-road-durban-united-nations-role-fighting-racism-and-racial-discrimination): 1994년 임시 헌법과 총선으로 아파르트헤이트 종식
     - South African History Online, [A history of Apartheid in South Africa](https://www.sahistory.org.za/article/history-apartheid-south-africa): 1948년 국민당 집권과 아파르트헤이트 도입
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 몽고메리 버스 보이콧의 기간("1년 넘게")과 마틴 루서 킹 주니어의 역할은 이번에 연 자료에서 직접 확인하지 못했어요(널리 알려진 사실). 샤프빌(1960), 1976년 학생 시위(소웨토), 1991년 아파르트헤이트 공식 종료는 OpenStax 한 곳에서만 확인했어요. 만델라의 수감 기간과 석방(1990)은 대조하지 못해 넣지 않았어요. '다른 권리 운동' 문단은 일반적인 설명이에요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 샤프빌(1960), 1976년 학생 시위(소웨토)는 OpenStax 한 곳에서만 확인했어요. 1991년 주요 아파르트헤이트 법률 폐지는 OpenStax와 일반 지식으로 썼고, 이번에 연 유엔·SAHO 자료에는 1991년 폐지 내용이 없었어요. 만델라의 수감 기간과 석방(1990)은 대조하지 못해 넣지 않았어요. '다른 권리 운동' 문단은 일반적인 설명이에요.

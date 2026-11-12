@@ -19,11 +19,12 @@
 |---|---|
 | 1933년 | 나치 집권. 곧바로 유대인을 공직과 사회에서 밀어내기 시작 |
 | 1935년 | 뉘른베르크법. 누가 유대인인지 법으로 정하고 시민의 권리를 빼앗음 |
-| 1938년 | 전국에서 유대인 회당과 상점을 습격한 '수정의 밤'(Kristallnacht) |
+| 1938년 11월 9~10일 | '수정의 밤'(Kristallnacht). 독일과 이미 병합한 오스트리아·주데텐란트에서 유대인 회당·상점·집을 부수고 불태움. 유대인 남성 약 2만 6천 명을 체포해 강제 수용소에 가둠 |
 | 1939년~ | 전쟁이 시작되자 점령지 유대인을 게토(좁은 구역)에 가둠 |
 | 1941년 6월~ | 소련 침공과 함께 이동 부대가 유대인을 대규모로 총살 |
-| 1942년 1월 | 반제 회의. 유럽 유대인을 모두 없애려는 '최종 해결'을 관리들이 논의 |
-| 1942년~ | 아우슈비츠-비르케나우, 트레블링카 등 학살 수용소에서 대량 살해 |
+| 1941년 12월 | 헤움노(Chełmno)에서 가스를 이용한 살해 시작 |
+| 1942년 1월 20일 | 반제 회의. 이미 결정된 '최종 해결'(유럽 유대인 전체 살해)을 여러 부처가 어떻게 함께 실행할지 관리들이 조정 |
+| 1942년~ | 아우슈비츠-비르케나우, 트레블링카 등 학살 수용소에서 대량 살해가 크게 늘어남 |
 
 처음에는 "저 사람들은 우리와 달라", "저들이 나라를 망쳤어" 하는 말이었어요. 그 말이 법이 되고, 법이 격리가 되고, 격리가 학살로 이어졌어요. 이 과정에는 수많은 관리, 군인, 철도원, 이웃이 참여하거나 눈감았어요. USHMM은 수백만 명의 독일인과 다른 유럽인이 관여하지 않았다면 이 학살은 불가능했을 것이라고 설명해요.
 
@@ -43,9 +44,9 @@ USHMM이 독일 문서와 전쟁 전후의 인구 자료를 바탕으로 정리�
 
 ## 맞서고, 숨겨 주고, 기억한 사람들
 
-모두가 침묵한 것은 아니에요. 1943년 바르샤바 게토의 유대인들은 무기를 들고 봉기했어요. 폴란드의 **이레나 센들러**(Irena Sendler)는 게토에서 약 2,500명의 아이를 몰래 빼냈다고 알려져 있어요. 그리스 자킨토스섬의 시장은 섬의 유대인 275명을 넘겨주지 않고 숨겨 주었어요.
+모두가 침묵한 것은 아니에요. 1943년 4월 19일, 독일군과 경찰이 바르샤바 게토에 남은 유대인들을 끌고 가려 하자 유대인 저항 조직이 무기를 들고 봉기했어요. 폴란드의 **이레나 센들러**(Irena Sendler)는 구조 조직 **제고타**(Żegota)에서 다른 활동가들과 함께 게토의 유대인 아이들을 몰래 빼내 숨겨 주었어요. 약 2,500명을 구했다는 이야기가 널리 알려져 있지만, 여러 사람이 함께한 일이라 센들러 한 사람이 구한 수는 자료마다 달라요. 그리스 자킨토스섬에서는 시장과 주교가 독일군에게 유대인 명단 대신 자기 이름만 적어 냈고, 섬의 유대인 275명은 여러 마을의 주민들 집에 숨어 모두 살아남았어요.
 
-1944~1945년 연합군이 진격하며 수용소의 생존자들을 해방했어요. 전쟁 뒤 **뉘른베르크 재판**은 나치 지도자들에게 '인도에 반한 죄'를 물었어요. 오늘날 많은 나라와 국제 연합은 홀로코스트를 기억하는 날을 정해 희생자를 기려요.
+1944~1945년 연합군이 진격하며 수용소의 생존자들을 해방했어요. 전쟁 뒤 **뉘른베르크 재판**은 나치 지도자들에게 '인도에 반한 죄'를 물었어요. 국제 연합은 2005년 총회 결의로 아우슈비츠가 해방된 1월 27일을 홀로코스트 희생자를 기리는 국제 추모일로 정했어요. 많은 나라도 저마다 기억하는 날을 두고 있어요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     "저 사람들은 우리와 달라"라는 미움의 말이 법이 되고 마침내 600만 명의 유대인을 죽인 학살이 된 일, 그게 홀로코스트예요.
@@ -74,7 +75,11 @@ USHMM이 독일 문서와 전쟁 전후의 인구 자료를 바탕으로 정리�
     - OpenStax, *World History Volume 2, from 1400*, [13.1 An Unstable Peace](https://openstax.org/books/world-history-volume-2/pages/13-1-an-unstable-peace), [13.2 Theaters of War](https://openstax.org/books/world-history-volume-2/pages/13-2-theaters-of-war), [13.4 Out of the Ashes](https://openstax.org/books/world-history-volume-2/pages/13-4-out-of-the-ashes) (CC BY-NC-SA 4.0)
     - United States Holocaust Memorial Museum, Holocaust Encyclopedia, [Documenting Numbers of Victims of the Holocaust and Nazi Persecution](https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution) (2023-09-26 수정본): 희생자 수 표
     - United States Holocaust Memorial Museum, Holocaust Encyclopedia, [Introduction to the Holocaust](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust): 1933~1945년 시기 구분, 1941년 6월 총살 시작, 수용소 해방
+    - United States Holocaust Memorial Museum, Holocaust Encyclopedia, [Kristallnacht](https://encyclopedia.ushmm.org/content/en/article/kristallnacht), [Wannsee Conference](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/wannsee-conference), [Chelmno](https://encyclopedia.ushmm.org/content/en/article/chelmno), [The Warsaw Ghetto Uprising](https://encyclopedia.ushmm.org/content/en/article/the-warsaw-ghetto-uprising): 날짜와 성격 대조
+    - Jewish Museum of Greece, [Zakynthos, the Island of the Righteous](https://jewishmuseum.gr/en/video-en/zakynthos-the-island-of-the-righteous/): 시장 카레르와 주교 크리소스토모스, 유대인 275명
+    - Yad Vashem, [Righteous Women](https://wwv.yadvashem.org/yv/en/exhibitions/righteous-women/index.asp): 제고타 활동가 이레나 센들러
+    - United Nations, [Holocaust Remembrance](https://www.un.org/en/ga/63/plenary/D_holocaust.shtml): 2005년 결의 60/7, 1월 27일 국제 추모일
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 반제 회의(1942년 1월), 바르샤바 게토 봉기(1943), 이레나 센들러의 약 2,500명 구출, 자킨토스의 275명은 OpenStax 한 곳에서만 확인했어요. '쇼아'의 뜻과 국제 홀로코스트 추모일은 이번에 자료를 열어 대조하지 못했어요. '수정의 밤'은 USHMM 페이지에 항목 이름만 확인했고 날짜(1938년 11월)는 대조하지 못해 연도만 썼어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 이레나 센들러가 함께 구한 아이 수(약 2,500명)는 OpenStax 한 곳의 숫자이고, 센들러 개인의 몫은 확정하기 어려워요. '쇼아'의 뜻은 이번에 자료를 열어 대조하지 못했어요.

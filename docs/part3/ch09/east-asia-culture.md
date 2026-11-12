@@ -24,7 +24,7 @@
 
 **한자**는 말이 서로 달라도 글로는 뜻을 나눌 수 있게 해 주었어요. 사신들은 말이 통하지 않아도 한자로 써서 대화하기도 했어요(이를 필담이라고 해요).
 
-**유교**는 나라를 다스릴 관리를 기르는 공부가 됐어요. 신라 국학에서는 『논어』와 『효경』 같은 유교 책을 가르쳤어요. 일본에서는 604년 쇼토쿠 태자가 유교 생각을 바탕으로 한 「17조 헌법」을 내놓았다고 전해져요.
+**유교**는 나라를 다스릴 관리를 기르는 공부가 됐어요. 신라 국학에서는 『논어』와 『효경』 같은 유교 책을 가르쳤어요. 일본의 역사책 『일본서기』는 604년 쇼토쿠 태자가 관리들이 지킬 열일곱 조항(「17조 헌법」)을 마련했다고 전해요. 여기에는 유교의 가르침과 불교를 받들라는 조항이 함께 들어 있어요.
 
 **불교**는 인도에서 비단길을 따라 중국에 들어왔고(3~6세기에 널리 퍼짐), 다시 한반도와 일본으로 건너갔어요. 백제 성왕은 538년(또는 552년)에 일본으로 불경과 불상을 보냈고, 일본은 594년 무렵 불교를 나라가 받드는 종교로 삼았어요.
 
@@ -77,8 +77,9 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - OpenStax, *World History Volume 1, to 1500*, [12.2 East-West Interactions in the Early Middle Ages](https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages), [12.3 Border States: Sogdiana, Korea, and Japan](https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan), [5.3 Korea, Japan, and Southeast Asia](https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia) (CC BY-NC-SA 4.0)
+    - Columbia University Asia for Educators, [The Constitution of Prince Shōtoku](https://afe.easia.columbia.edu/ps/japan/shotoku.pdf) (PDF, 『일본서기』 영어 번역 발췌)
     - 한국민족문화대백과사전, [소수림왕](https://encykorea.aks.ac.kr/Article/E0030144), [국학](https://encykorea.aks.ac.kr/Article/E0006550), 한국학중앙연구원
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 일본 쪽 연도(538/552, 594, 604, 701)는 OpenStax 한 곳에서만 확인했어요. 베트남 쯔놈, 이두·향찰, 필담은 일반적인 설명이지만 이번에 따로 대조하지 못했어요. 고구려 율령 반포(373)는 한국민족문화대백과사전 소수림왕 항목 한 곳에서 확인했어요. "17조 헌법"의 실제 성립 시기에 대한 논쟁은 다루지 않았어요. '다이호 율령/대보 율령', '쇼토쿠 태자' 표기를 기준 교과서로 맞춰야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 일본 쪽 연도(538/552, 594, 604, 701)는 OpenStax 한 곳에서만 확인했어요. 베트남 쯔놈, 이두·향찰, 필담은 일반적인 설명이지만 이번에 따로 대조하지 못했어요. 고구려 율령 반포(373)는 한국민족문화대백과사전 소수림왕 항목 한 곳에서 확인했어요. "17조 헌법"이 정말 604년에 쇼토쿠 태자가 만든 것인지, 뒤에 『일본서기』를 엮을 때 다듬어진 것인지에 대한 논쟁은 근거 자료를 열지 못해 다루지 않았어요. '다이호 율령/대보 율령', '쇼토쿠 태자' 표기를 기준 교과서로 맞춰야 해요.

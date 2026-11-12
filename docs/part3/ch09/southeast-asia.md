@@ -29,7 +29,7 @@
 | **앙코르**(크메르) | 지금의 캄보디아 | 802년 무렵~15세기 | 힌두교 사원 **앙코르 와트**(12세기 전반)를 세움 |
 | **믈라카 왕국** | 말레이반도 | 1400년 무렵~1511년 | 이슬람교를 받아들이고 해협 무역의 중심이 됨 |
 
-**스리비자야**는 해협을 오가는 배를 자기 항구로 불러들여 부유해졌어요. 671년 당나라 승려 의정(義淨)이 인도로 가는 길에 이곳에 여섯 달 머물며 산스크리트어와 불교를 공부했다고 해요. 11세기 남인도 촐라 왕조의 공격을 받은 뒤 힘이 약해졌어요.
+**스리비자야**는 해협을 오가는 배를 자기 항구로 불러들여 부유해졌어요. 671년 당나라 승려 의정(義淨)이 인도로 가는 길에 이곳에 여섯 달 머물며 산스크리트어와 불교를 공부했다고 해요. 1025년 남인도 촐라 왕조의 바다 원정으로 큰 항구들이 공격받은 뒤 힘이 약해졌어요.
 
 **앙코르**는 바다보다 넓은 논과 물길을 바탕으로 한 나라였어요. 802년 자야바르만 2세가 스스로를 "온 세상의 왕"이라고 선언하며 시작됐다고 해요. 수리야바르만 2세가 1113~1150년 무렵 지은 **앙코르 와트**는 힌두교의 우주를 돌로 옮겨 놓은 사원이에요. 뒤에는 불교 사원으로도 쓰였어요.
 
@@ -60,11 +60,11 @@
 ## 출처와 기준
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
-    - OpenStax, *World History Volume 1, to 1500*, [5.3 Korea, Japan, and Southeast Asia](https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia), [12.1 The Indian Ocean World in the Early Middle Ages](https://openstax.org/books/world-history-volume-1/pages/12-1-the-indian-ocean-world-in-the-early-middle-ages) (CC BY-NC-SA 4.0)
+    - OpenStax, *World History Volume 1, to 1500*, [5.3 Korea, Japan, and Southeast Asia](https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia), [12.1 The Indian Ocean World in the Early Middle Ages](https://openstax.org/books/world-history-volume-1/pages/12-1-the-indian-ocean-world-in-the-early-middle-ages), [12.2 East-West Interactions in the Early Middle Ages](https://openstax.org/books/world-history-volume-1/pages/12-2-east-west-interactions-in-the-early-middle-ages) (CC BY-NC-SA 4.0)
     - Bennett Sherry, [Indian Ocean Trade Routes](https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/Origins/Unit6/Indian-Ocean-Trade-Routes/1040L), OER Project
     - Wikipedia, [Srivijaya](https://en.wikipedia.org/wiki/Srivijaya), [Angkor](https://en.wikipedia.org/wiki/Angkor), [Sultanate of Malacca](https://en.wikipedia.org/wiki/Sultanate_of_Malacca) (연도와 인물 대조)
     - Pew Research Center, [Mapping the Global Muslim Population](https://www.pewresearch.org/religion/2009/10/07/mapping-the-global-muslim-population/), 2009-10-07 (인도네시아)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 스리비자야의 의정 방문(671), 촐라 공격(1025), 앙코르 시작(802)과 앙코르 와트 건립(1113~1150), 믈라카 건국(1400 무렵)과 정화 첫 방문(1407)은 OpenStax에 없어 Wikipedia로만 확인했어요. 백과사전·박물관 자료로 한 번 더 대조해야 해요. 앙코르 와트의 중심 신상이 비슈누였다는 점도 Wikipedia로만 확인했어요. 스리비자야 전성기를 OpenStax는 7~12세기로, Wikipedia는 7세기 말~11세기 초로 적어 표에는 "7~11세기 무렵"으로 썼어요. '믈라카/말라카', '사일렌드라/샤일렌드라', '의정' 표기를 기준 교과서로 맞춰야 해요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 스리비자야의 의정 방문(671), 앙코르 시작(802)과 앙코르 와트 건립(1113~1150), 믈라카 건국(1400 무렵)과 정화 첫 방문(1407)은 OpenStax에 없어 Wikipedia로만 확인했어요. 백과사전·박물관 자료로 한 번 더 대조해야 해요. 앙코르 와트의 중심 신상이 비슈누였다는 점도 Wikipedia로만 확인했어요. 스리비자야 전성기를 OpenStax는 7~12세기로, Wikipedia는 7세기 말~11세기 초로 적어 표에는 "7~11세기 무렵"으로 썼어요. '믈라카/말라카', '사일렌드라/샤일렌드라', '의정' 표기를 기준 교과서로 맞춰야 해요. 촐라 왕조의 스리비자야 공격(1025)은 OpenStax 12.2와 Wikipedia가 일치해요.

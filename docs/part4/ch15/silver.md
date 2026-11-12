@@ -26,7 +26,7 @@
 | 길 | 어떻게 |
 |---|---|
 | 대서양 → 유럽 → 인도양 | 에스파냐로 간 은이 유럽 상인의 손을 거쳐 아시아의 비단, 차, 향신료 값으로 쓰였어요 |
-| 태평양(마닐라 갤리언) | 1565년부터 1815년까지 에스파냐 배가 멕시코의 아카풀코와 필리핀의 마닐라를 오가며 은을 싣고 갔어요. 돌아올 때는 중국 비단과 도자기를 실었어요 |
+| 태평양(마닐라 갤리언) | 에스파냐는 1565년 필리핀에서 멕시코로 돌아가는 바닷길을 찾았고, 1571년 마닐라를 거점으로 삼았어요. 그 뒤 1815년까지 에스파냐 배가 멕시코의 아카풀코와 마닐라를 오가며 은을 싣고 갔어요. 돌아올 때는 중국 비단과 도자기를 실었어요 |
 
 일본 은도 중국으로 흘러갔어요. 바닷길로는 중국 남동쪽 해안으로, 육로로는 쓰시마에서 조선을 지나 랴오둥으로 들어갔어요. 한 연구는 아메리카와 일본에서 나온 은의 5분의 1에서 3분의 1이 중국으로 들어갔다고 추정해요.
 
@@ -42,7 +42,7 @@
 
 ## 한국사와 이어 보기
 
-1503년 조선의 김감불과 김검동이 납이 섞인 광석에서 은을 분리하는 방법(연은분리법)을 개발해 함경도 단천 광산에서 썼어요. 이 기술이 일본의 이와미 은광에 전해졌고, 1530년대 일본의 은 생산이 크게 늘었어요. 조선 정부는 그 뒤 은 채굴을 막았는데, 이미 일본 은이 조선에 많이 들어와 있던 것도 이유로 꼽혀요.
+1503년 조선의 김감불과 김검동이 납에서 은을 뽑아내는 방법을 연산군에게 보고했어요. 시험해 보니 정말 은이 나오자, 연산군은 함경도 단천 광산에서 이 방법을 쓰게 했어요(흔히 연은분리법, 단천연은법이라고 불러요). 이 기술이 일본의 이와미 은광에 전해졌고, 1530년대 일본의 은 생산이 크게 늘었어요. 조선 정부는 그 뒤 은 채굴을 막았는데, 이미 일본 은이 조선에 많이 들어와 있던 것도 이유로 꼽혀요.
 
 ## 오늘 생각해 볼 것
 
@@ -62,10 +62,10 @@
     - OpenStax, *World History Volume 2, from 1400*, [2.3 Exchange in East Asia](https://openstax.org/books/world-history-volume-2/pages/2-3-exchange-in-east-asia) (마닐라 은, 명의 은 부족, CC BY-NC-SA 4.0)
     - OpenStax, *World History Volume 2, from 1400*, [5.3 The Mercantilist Economy](https://openstax.org/books/world-history-volume-2/pages/5-3-the-mercantilist-economy) (중상주의와 흄의 비판, CC BY-NC-SA 4.0)
     - OpenStax, *World History Volume 2, from 1400*, [5.4 The Atlantic Slave Trade](https://openstax.org/books/world-history-volume-2/pages/5-4-the-atlantic-slave-trade) (멕시코·페루 광산의 아프리카인, CC BY-NC-SA 4.0)
-    - 우리역사넷(국사편찬위원회), [중국 은경제의 성립과 동아시아](https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i305650&code=kc_age_30) (연은분리법, 이와미, 일조편법, 1567년, 은의 유입 경로와 비율)
+    - 우리역사넷(국사편찬위원회), [중국 은경제의 성립과 동아시아](https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i305650&code=kc_age_30) (1503년 보고와 시연, 단천 광산, 이와미, 일조편법, 1567년, 은의 유입 경로와 비율)
     - Wikipedia, [Potosí](https://en.wikipedia.org/wiki/Potos%C3%AD) (1545년, 미타 해마다 약 1만 3천 명, 수은, 인구)
-    - Wikipedia, [Manila galleon](https://en.wikipedia.org/wiki/Manila_galleon) (1565~1815년, 아카풀코~마닐라)
+    - Wikipedia, [Manila galleon](https://en.wikipedia.org/wiki/Manila_galleon) (1565년 귀환 항로, 1571년 마닐라 건설, 1815년까지, 아카풀코~마닐라)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
 - **확인 필요:** 포토시 광산의 사망자 수는 믿을 만한 숫자를 찾지 못해 넣지 않았어요. 포토시 인구는 자료에 따라 1603년 약 13만 명 남짓, 최대 20만 명 넘게로 적혀 있어 '수십만 명 가까이'로 썼어요. 아프리카인이 아메리카 광산에서 일했다는 점은 OpenStax 5.4(멕시코·페루 광산)에서 확인했고, 포토시만 따로는 확인하지 않았어요. '세계 경제가 처음 엮인 때'라는 평가는 학자들의 견해(예: 1571년 마닐라 건설을 기점으로 보는 견해)이며 원문을 열지 않았어요.

@@ -23,14 +23,14 @@
 
 1941년에 두 사건이 전쟁을 진짜 '세계' 전쟁으로 만들었어요.
 
-- **6월**, 독일이 소련을 침공했어요. 독일과 소련이 맞선 동부 전선에서는 스탈린그라드 전투처럼 사상자가 수백만 명에 이르는 싸움이 벌어졌어요.
-- **12월 7일**, 일본이 하와이 진주만의 미국 함대를 기습했어요. 다음 날 미국이 일본에 선전 포고를 했고, 독일도 미국에 선전 포고를 했어요.
+- **6월**, 독일이 소련을 침공했어요. 독일과 소련이 맞선 동부 전선에서는 큰 싸움이 이어졌어요. 스탈린그라드에서는 양쪽 군인과 도시 주민이 큰 희생을 치렀고, 동부 전선 전체의 피해는 그보다 훨씬 컸어요.
+- **12월 7일**, 일본이 하와이 진주만의 미국 함대를 기습했어요. 다음 날인 12월 8일 미국이 일본에 선전 포고를 했고, 12월 11일에는 독일과 이탈리아가 미국에 선전 포고를 했어요.
 
 이제 한쪽에는 독일·이탈리아·일본(**추축국**), 다른 쪽에는 영국·소련·미국·중국 등(**연합국**)이 섰어요.
 
 | 때 | 큰 흐름 |
 |---|---|
-| 1943년 1월 | 소련군이 스탈린그라드에서 독일군을 항복시킴 |
+| 1943년 1월 말~2월 2일 | 스탈린그라드에서 포위된 독일군이 소련군에 항복 |
 | 1943년 9월 | 이탈리아 항복 |
 | 1944년 6월 6일 | 연합군이 프랑스 노르망디에 상륙 |
 | 1945년 5월 | 독일 항복 |
@@ -39,7 +39,7 @@
 
 ## 얼마나 많은 사람이 희생됐나
 
-정확한 숫자는 아무도 몰라요. 기록이 사라졌고, 나라마다 세는 방법이 다르기 때문이에요. OpenStax가 소개한 추정치만 보아도 규모를 짐작할 수 있어요.
+정확한 숫자는 아무도 몰라요. 기록이 사라졌고, 나라마다 세는 방법이 다르기 때문이에요. 미국 국립 제2차 세계 대전 박물관은 세계의 전투 사망자를 약 1,500만 명, 민간인 사망자를 약 4,500만 명으로 추정해요. 아래 나라별 숫자는 OpenStax가 소개한 추정치예요. 군인과 민간인을 나누는 방법, 집계한 지역과 기간이 자료마다 달라서 숫자도 조금씩 차이가 나요.
 
 | 나라 | 군인 사망 (추정) | 민간인 사망 (추정) |
 |---|---|---|
@@ -60,7 +60,7 @@
 
 ## 한국사와 이어 보기
 
-일본의 항복 방송이 나온 1945년 8월 15일은 한국에게 광복의 날이 되었어요. 하지만 같은 날 한반도는 북위 38도선을 경계로 남쪽은 미국, 북쪽은 소련이 일본군의 무장을 해제하기로 나뉘었고, 이것이 분단의 시작이 되었어요.
+일본의 항복 방송이 나온 1945년 8월 15일은 한국에게 광복의 날이 되었어요. 그 무렵 미국과 소련은 북위 38도선을 경계로 일본군의 항복을 나누어 받기로 했어요. 소련군은 8월에 북쪽으로, 미군은 9월에 남쪽으로 들어왔어요. 일본군의 항복을 받기 위한 임시 구분이었지만, 이 점령 구분이 분단의 출발점이 되었어요.
 
 ## 오늘 생각해 볼 것
 
@@ -80,7 +80,11 @@
     - OpenStax, *World History Volume 2, from 1400*, [13.1 An Unstable Peace](https://openstax.org/books/world-history-volume-2/pages/13-1-an-unstable-peace), [13.2 Theaters of War](https://openstax.org/books/world-history-volume-2/pages/13-2-theaters-of-war), [13.4 Out of the Ashes](https://openstax.org/books/world-history-volume-2/pages/13-4-out-of-the-ashes), [14.2 The Spread of Communism](https://openstax.org/books/world-history-volume-2/pages/14-2-the-spread-of-communism) (CC BY-NC-SA 4.0)
     - U.S. Department of State, Office of the Historian, [Japan, China, the United States and the Road to Pearl Harbor, 1937–41](https://history.state.gov/milestones/1937-1945/pearl-harbor): 1937년 7월 7일 루거우차오 충돌, 1941년 12월 7일 진주만 공격 대조
     - United States Holocaust Memorial Museum, [Introduction to the Holocaust](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust): 1939년 9월 1일 폴란드 침공, 1941년 6월 소련 침공, 1945년 5월 독일 패전 대조
+    - United States Holocaust Memorial Museum, [German Defeat at Stalingrad](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/german-defeat-at-stalingrad): 1943년 2월 2일 남은 독일군 항복
+    - The National WWII Museum, [Research Starters: Worldwide Deaths in World War II](https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war): 전투 사망 약 1,500만 명, 민간인 사망 약 4,500만 명, 나라별 군인 사망 대조
+    - The National WWII Museum, [Unsung Witnesses of the Battle of Stalingrad](https://www.nationalww2museum.org/war/articles/unsung-witnesses-battle-stalingrad): 스탈린그라드 주민 피해
+    - U.S. Department of State, Office of the Historian, [FRUS 1945, Vol. VI, 문서 801](https://history.state.gov/historicaldocuments/frus1945v06/d801): 일반명령 제1호의 38도선 항복 접수 구분이 일본군 항복을 받기 위한 임시 조치였다는 미국 정부 보고(1945년 10월)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 나라별 사망자 표는 OpenStax 한 곳의 추정치예요. 다른 기관(예: 미국 국립 제2차 세계 대전 박물관)의 통계와 대조하려 했지만 열리지 않았어요. 전체 사망자 합계는 자료 대조 전이라 쓰지 않았어요. 스탈린그라드(1943년 1월), 이탈리아 항복(1943년 9월), 노르망디 상륙(1944년 6월 6일)은 OpenStax 한 곳에서만 확인했어요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** 나라별 사망자 표는 OpenStax의 추정치예요. 미국 국립 제2차 세계 대전 박물관의 군인 사망 수치와는 맞지만, 민간인 수는 분류 방식이 달라 그대로 맞대기 어려워요. 1941년 12월 8일·11일 선전 포고 날짜는 외부 검수 의견과 일반 지식으로 넣었어요(미 해군 자료 미확인). 이탈리아 항복(1943년 9월), 노르망디 상륙(1944년 6월 6일)은 OpenStax 한 곳에서만 확인했어요.

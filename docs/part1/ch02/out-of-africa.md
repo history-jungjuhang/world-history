@@ -23,24 +23,24 @@
 
 ## 아프리카를 떠나 지구 끝까지
 
-호모 사피엔스 무리는 아프리카 안에서 퍼져 살다가 약 10만 년 전 무렵부터 아프리카 밖으로 나가기 시작했어요. 한 번에 이사한 게 아니에요. 몇 세대에 걸쳐 조금씩 옆 골짜기, 옆 해안으로 옮겨 간 걸음이 쌓여 대륙을 건넜어요.
+호모 사피엔스 무리는 아프리카 안에서 퍼져 살다가 여러 차례 아프리카 밖으로 나갔어요. 지금의 이스라엘에서는 약 12만~9만 년 전 호모 사피엔스의 화석이 나왔어요. 그보다 훨씬 이른 화석이라는 보고도 있지만, 연대를 두고 반론이 있어요. 한 번에 이사한 게 아니에요. 몇 세대에 걸쳐 조금씩 옆 골짜기, 옆 해안으로 옮겨 간 걸음이 쌓여 대륙을 건넜어요.
 
-| 도착한 곳 | 언제쯤 (OpenStax 기준, 약) |
+| 도착한 곳 | 사람이 살았던 이른 흔적 (약) |
 |---|---|
 | 인도와 중국 | 7만 년 전 |
-| 오스트레일리아·뉴기니 | 적어도 4만 5천 년 전 |
+| 오스트레일리아·뉴기니 | 6만 5천~4만 5천 년 전 (유적에 따라 견해가 갈려요) |
 | 유럽 | 4만 년 전 |
 | 시베리아·북아시아 | 2만 5천 년 전 |
-| 북아메리카 | 1만 5천 년 전 |
+| 북아메리카 | 1만 5천 년 전 (더 이른 발자국 연구는 아래에) |
 | 남아메리카 | 1만 4천 년 전 |
 
-이 표의 숫자는 새 발견이 나올 때마다 앞당겨지고 있어요. 북아메리카 뉴멕시코주 화이트샌즈에서는 약 2만 1천~2만 3천 년 전의 사람 발자국이 나왔다는 연구가 있고, 미국 지질조사국은 2023년 다른 두 방법으로도 같은 연대가 나왔다고 발표했어요. 빙하기에 바닷물이 줄어 드러난 땅과 얕은 바다가 길을 열어 주었어요.
+이 표는 OpenStax가 정리한 연대를 바탕으로 한 예시예요. 숫자는 새 발견이 나올 때마다 앞당겨지고 있어요. 오스트레일리아 북부 마제드베베(Madjedbebe) 유적은 약 6만 5천 년 전부터 사람이 살았다는 연구가 2017년에 나왔어요. 북아메리카 뉴멕시코주 화이트샌즈에서는 약 2만 1천~2만 3천 년 전의 사람 발자국이 나왔다는 연구가 있고, 미국 지질조사국은 2023년 다른 두 방법으로도 같은 연대가 나왔다고 발표했어요. 빙하기에 바닷물이 줄어 드러난 땅과 얕은 바다가 길을 열어 주었어요.
 
 ## 혼자가 아니었던 여행
 
 우리 조상이 유럽과 서아시아에 갔을 때, 그곳에는 이미 **네안데르탈인**(Neanderthal)이 수만 년째 살고 있었어요. 시베리아에서는 **데니소바인**(Denisovan)이라는 또 다른 무리의 흔적도 나왔어요. 놀랍게도 아버지가 데니소바인, 어머니가 네안데르탈인인 소녀의 뼈까지 발견되었어요.
 
-오늘날 유럽과 중동 사람들의 유전자에는 네안데르탈인에게서 온 부분이 1~4% 정도 있어요. 우리 조상이 다른 무리를 그냥 밀어낸 게 아니라 만나서 아이를 낳기도 했다는 뜻이에요. 네안데르탈인은 약 4만 년 전부터 사라져 갔어요.
+오늘날 유럽계와 아시아계 사람들의 DNA에는 네안데르탈인에게서 물려받은 부분이 보통 약 1~2% 있어요. 오세아니아의 멜라네시아 사람들에게는 데니소바인에게서 온 부분이 약 4~6% 있어요. 우리 조상이 다른 무리를 그냥 밀어낸 게 아니라 만나서 아이를 낳기도 했다는 뜻이에요. 네안데르탈인은 약 4만 년 전부터 사라져 갔어요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     지구의 모든 사람은 아프리카에서 출발해 수만 년 동안 조금씩 걸어서 온 세계로 퍼진 한 가족이에요.
@@ -48,7 +48,7 @@
 !!! note "★ 한 걸음 더 (심화)"
     - **아프리카 기원설**: 현생 인류가 아프리카에서 나타나 퍼지면서 다른 사람 무리를 대신했다는 설명이에요. 지금 가장 널리 받아들여져요.
     - **다지역 기원설**: 여러 대륙에서 호모 에렉투스가 각각 현생 인류로 진화했다는 설명이에요. 주로 화석 모양에 기대요.
-    - 유전자 연구가 쌓이면서 두 설명이 꼭 반대만은 아니라는 견해가 나왔어요. 아프리카에서 나온 무리가 각 지역의 다른 사람 무리와 섞였다는 거예요.
+    - 유전자 연구는 아프리카 기원설을 크게 뒷받침해요. 다만 아프리카에서 나온 무리가 다른 대륙에서 네안데르탈인, 데니소바인과 조금 섞였다는 사실도 밝혀졌어요. 그래서 다른 무리를 '완전히 대신했다'는 옛 설명은 '대부분 대신하면서 조금 섞였다'로 다듬어졌어요.
 
 ## 오늘 생각해 볼 것
 
@@ -69,8 +69,11 @@
     - OpenStax, *World History Volume 1, to 1500*, [2.1 Early Human Evolution and Migration](https://openstax.org/books/world-history-volume-1/pages/2-1-early-human-evolution-and-migration) (CC BY-NC-SA 4.0)
     - Smithsonian National Museum of Natural History, Human Origins, [Homo sapiens](https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens)
     - Science News, [Oldest known Homo sapiens fossils come from northern Africa, studies claim](https://www.sciencenews.org/article/oldest-known-homo-sapiens-fossils-come-northern-africa-studies-claim) (2017-06-07)
+    - MedlinePlus, [What does it mean to have Neanderthal or Denisovan DNA?](https://medlineplus.gov/genetics/understanding/dtcgenetictesting/neanderthaldna/), 미국 국립의학도서관
+    - Clarkson 외, [Human occupation of northern Australia by 65,000 years ago](https://pubmed.ncbi.nlm.nih.gov/28726833/), *Nature* 547 (2017)
+    - USF Digital Commons, [미슬리야 화석 연구 기록](https://digitalcommons.usf.edu/kip_articles/1591/) · U.S. Geological Survey, [미슬리야 화석 연대에 대한 논평](https://www.usgs.gov/publications/comment-earliest-modern-humans-outside-africa)
     - U.S. Geological Survey, [Study confirms age of oldest fossil human footprints in North America](https://www.usgs.gov/news/national-news-release/study-confirms-age-oldest-fossil-human-footprints-north-america) (2023-10-05)
 
 - **기준 날짜:** 2026-11-11
-- **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** OpenStax 2.1은 현생 인류 등장을 약 20만 년 전으로 쓰고, 스미스소니언과 2017년 연구는 약 30만 년 전으로 써요. 본문은 30만 년 쪽을 따르고 반대 견해를 함께 적었어요. 오스트레일리아 도착 시기는 OpenStax 지도에 5만 년 전으로도 나와 범위로 확인해야 해요. '제벨 이르후드' 표기 확인 필요.
+- **검토 상태:** 초안, 외부 검수 반영(2026-11-12)
+- **확인 필요:** OpenStax 2.1은 현생 인류 등장을 약 20만 년 전으로 쓰고, 스미스소니언과 2017년 연구는 약 30만 년 전으로 써요. 본문은 30만 년 쪽을 따르고 반대 견해를 함께 적었어요. 오스트레일리아 도착 시기는 마제드베베 연구(약 6만 5천 년 전)와 OpenStax(4만 5천~5만 년 전) 사이를 범위로 적었어요. 미슬리야 화석(약 19만~17만 년 전 보고)은 연대 반론이 있고 연구 기록 페이지에 철회 표시가 있어 본문에 숫자를 넣지 않았어요. '제벨 이르후드' 표기 확인 필요.

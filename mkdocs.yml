@@ -4,6 +4,7 @@ site_url: https://history-jungjuhang.github.io/world-history/
 copyright: 세계사 정주행 · 뼈대 목차는 OpenStax World History(CC BY-NC-SA 4.0)를 참고해 새로 썼어요
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/globe-logo.svg
   favicon: assets/globe-logo.svg
   language: ko
@@ -31,6 +32,7 @@ extra_css:
 extra_javascript:
   - javascripts/globe.js
   - javascripts/reveal.js
+  - javascripts/app-install.js
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -265,3 +267,4 @@ nav:
     - "한눈에 보는 연표": appendix/timeline.md
     - "이름 표기와 원어": appendix/names.md
     - "참고 자료": appendix/references.md
+  - 앱으로 보기: app.md

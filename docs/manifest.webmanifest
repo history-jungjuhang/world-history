@@ -1,0 +1,16 @@
+{
+  "name": "세계사 정주행",
+  "short_name": "세계사 정주행",
+  "description": "열 살도 이해하는 세계사. 선사 시대부터 1991년까지 고르게 다루는 한국어 교과서",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f3",
+  "theme_color": "#faf8f3",
+  "icons": [
+    {"src": "assets/app/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/app/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "assets/app/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

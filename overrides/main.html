@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  <link rel="manifest" href="{{ 'manifest.webmanifest' | url }}">
+  <meta name="theme-color" content="#faf8f3" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#161513" media="(prefers-color-scheme: dark)">
+  <link rel="apple-touch-icon" href="{{ 'assets/app/apple-touch-icon.png' | url }}">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="세계사 정주행">
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('{{ "sw.js" | url }}', {scope: '{{ "./" | url }}'}).catch(function () {});
+      });
+    }
+  </script>
+{% endblock %}

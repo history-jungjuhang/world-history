@@ -74,6 +74,7 @@ for part in book['parts']:
             if not ps: continue
             y += f"      - {q(sec['num'] + ' ' + sec['title'])}:\n"
             for p in ps: y += f"        - {q(p['title'])}: {pd}/{cdir(ch)}/{p['slug']}.md\n"
+if (root / DOCS / 'app.md').exists(): y += f"  - {L.get('app', '앱으로 보기')}: app.md\n"
 (root / CONFIG).write_text(y, encoding='utf-8')
 
 # 3) 홈: 진행표와 최근 페이지 (마커 사이만 교체)

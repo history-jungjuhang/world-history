@@ -14,7 +14,7 @@
 - 목차: `book.yml`(7부 22장 118페이지 + 부록 4). `python3 tools/build_book.py`로 nav와 부/장 안내 페이지를 만든다.
 - 사용자 지시(2026-11-11 밤): 추천대로 교과서 전체를 써서 배포하고 링크를 보낸다. 페이지 작성 규칙은 `.claude/skills/topic-page`.
 - 진행(2026-11-12 새벽): 122페이지 초안 완료·배포. 남은 검토 항목은 `REVIEW.md`. OpenStax의 생성형 AI 이용 제한 문구는 사용자 판단 대기.
-- 앱 설치(PWA, 2026-11-17): `docs/manifest.webmanifest`, `docs/sw.js`(페이지는 네트워크 우선·오프라인 대체, '책 전체 저장'은 sitemap.xml 기준), `overrides/main.html`(매니페스트·SW 등록), `docs/javascripts/app-install.js`, 안내 페이지 `docs/app.md`(nav 맨 끝은 build_book.py가 붙임). 앱 아이콘은 `docs/assets/app/`. 캐시 이름을 바꾸려면 sw.js의 CACHE 값을 올린다.
+- 앱 설치(PWA, 2026-11-17): `docs/manifest.webmanifest`, `docs/sw.js`(페이지는 네트워크 우선·오프라인 대체, '책 전체 저장'은 sitemap.xml 기준), `overrides/main.html`(매니페스트·SW 등록), `docs/javascripts/app-install.js`, 안내 페이지 `docs/app.md`(nav 맨 끝은 build_book.py가 붙임). 앱 아이콘은 `docs/assets/app/`. 캐시 이름을 바꾸려면 sw.js의 CACHE 값을 올린다. 2026-11-18: 철학 정주행처럼 모든 페이지 머리에 '앱 설치' 버튼(설치 창 바로 띄움, 못 띄우면 app/로), 홈 버튼 `data-install`, 안내 페이지는 지금 브라우저 방법을 맨 위로.
 - 마스코트 SVG는 `tools/make_globe.py`가 만든다(`docs/assets/globe*.svg`).
 
 ## 세계사라서 특히 지킬 것

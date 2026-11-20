@@ -33,6 +33,7 @@ extra_javascript:
   - javascripts/globe.js
   - javascripts/reveal.js
   - javascripts/app-install.js
+  - javascripts/bookmark.js
 markdown_extensions:
   - admonition
   - pymdownx.details

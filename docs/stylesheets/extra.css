@@ -228,3 +228,19 @@ body{overflow-x:clip}
 .md-typeset .wh-guide.is-mine{border:2px solid var(--blue-fill);box-shadow:0 6px 18px rgba(199,91,51,.12)}
 .md-typeset .wh-guide.is-mine h3::after{content:"지금 쓰는 브라우저";margin-left:.5rem;font-size:.6rem;font-weight:600;padding:.1rem .5rem;border-radius:999px;background:var(--blue-fill);color:#fff;vertical-align:middle}
 .md-typeset .app-box .md-button[hidden]{display:none!important}
+/* 자동 책갈피 (2026-11-20) */
+.md-typeset .wh-continue{border:1px solid var(--line);border-left:4px solid var(--blue-fill);border-radius:12px;background:var(--card);padding:.9rem 1.1rem 1rem;margin:.4rem 0 1.6rem;max-width:34rem}
+.md-typeset .wh-continue-kicker{font-family:var(--mono);font-size:.6rem;color:var(--ink-faint);margin:0 0 .3rem}
+.md-typeset .wh-continue-title{font-weight:600;margin:0 0 .6rem;line-height:1.5}
+.md-typeset .wh-continue-bar{height:6px;border-radius:99px;background:var(--raised);overflow:hidden;margin:0 0 .8rem}
+.md-typeset .wh-continue-bar span{display:block;height:100%;background:var(--blue-fill);border-radius:99px}
+.md-typeset .wh-continue .md-button{margin:0}
+.wh-resume{position:fixed;left:50%;bottom:1.2rem;transform:translateX(-50%);z-index:5;display:flex;align-items:center;gap:.6rem;max-width:calc(100% - 2rem);background:#1f1b16;color:#efe9de;border-radius:999px;padding:.45rem .5rem .45rem 1rem;font-size:.72rem;box-shadow:0 8px 24px rgba(0,0,0,.18);transition:opacity 500ms var(--ease)}
+.wh-resume.is-fading{opacity:0}
+.wh-resume b{font-weight:600;color:#fff}
+.wh-resume button{font:inherit;cursor:pointer;border:0}
+.wh-resume-go{background:var(--blue-fill);color:#fff;border-radius:999px;padding:.35rem .8rem;font-weight:600;white-space:nowrap}
+.wh-resume-x{background:transparent;color:#aaa398;font-size:1rem;line-height:1;padding:.2rem .4rem}
+.md-typeset .ep-list a.wh-is-read .ep-title::after,.md-nav__link.wh-is-read::after{content:"✓";color:var(--blue-fill);font-weight:600;margin-left:.4rem}
+.md-typeset .ep-list a.wh-is-reading .ep-title::after,.md-nav__link.wh-is-reading::after{content:"읽는 중";font-size:.58rem;color:var(--ink-faint);margin-left:.4rem;font-weight:500}
+@media print{.wh-resume,.md-typeset .wh-continue{display:none}}

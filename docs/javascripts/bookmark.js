@@ -1,6 +1,6 @@
 /* 자동 책갈피 (2026-11-20 사용자 요청)
    - 주제 페이지를 읽는 동안 어디까지 내려갔는지 이 기기에 저장한다(localStorage, 기기마다 따로)
-   - 홈: "이어 읽기" 카드(마지막으로 읽던 페이지와 위치)와 읽은 페이지 수
+   - 홈: "이어 읽기" 카드(마지막으로 읽던 페이지, 2026-11-25 퍼센트·진행 막대는 헷갈려서 뺌)와 읽은 페이지 수
    - 읽다 만 페이지를 다시 열면 "이어서 읽기" 안내
    - 끝까지(90%) 읽은 페이지는 차례 목록과 왼쪽 메뉴에 ✓ */
 (function () {
@@ -22,7 +22,6 @@
     var h = Math.round(m / 60); if (h < 24) return h + '시간 전';
     return Math.round(h / 24) + '일 전';
   }
-  function pct(r) { return Math.round(r * 100) + '%'; }
 
   var current = null, timer = null, moved = false;
 
@@ -44,7 +43,7 @@
     var old = document.querySelector('.wh-resume'); if (old) old.remove();
     var d = document.createElement('div');
     d.className = 'wh-resume';
-    d.innerHTML = '<span>지난번에 <b>' + pct(r) + '</b>까지 읽었어요</span><button type="button" class="wh-resume-go">이어서 읽기</button><button type="button" class="wh-resume-x" aria-label="닫기">×</button>';
+    d.innerHTML = '<span>지난번에 읽다 멈춘 페이지예요</span><button type="button" class="wh-resume-go">읽던 곳으로</button><button type="button" class="wh-resume-x" aria-label="닫기">×</button>';
     document.body.appendChild(d);
     d.querySelector('.wh-resume-go').onclick = function () { scrollToRatio(r); d.remove(); };
     d.querySelector('.wh-resume-x').onclick = function () { d.remove(); };
@@ -72,11 +71,10 @@
     var done = last.r >= 0.9;
     c.innerHTML = '<p class="wh-continue-kicker">' + (done ? '지난번에 다 읽은 페이지' : '지난번에 읽던 곳') + ' · ' + ago(last.t) + (n ? ' · 다 읽은 페이지 ' + n + '쪽' : '') + '</p>' +
       '<p class="wh-continue-title"></p>' +
-      '<div class="wh-continue-bar"><span style="width:' + pct(last.r) + '"></span></div>' +
       '<a class="md-button md-button--primary wh-continue-go"></a>';
     c.querySelector('.wh-continue-title').textContent = (last.meta ? last.meta + ' · ' : '') + last.title;
     var go = c.querySelector('.wh-continue-go');
-    go.textContent = done ? '이 페이지 다시 보기' : '이어 읽기 (' + pct(last.r) + ')';
+    go.textContent = done ? '이 페이지 다시 보기' : '이어 읽기';
     go.href = last.path + (done ? '' : '#wh-resume');
     hero.parentNode.insertBefore(c, hero);
   }
